@@ -1,0 +1,92 @@
+" Configuration file for vim
+set modelines=0		" CVE-2007-2438
+
+" Normally we use vim-extensions. If you want true vi-compatibility
+" remove change the following statements
+set nocompatible	" Use Vim defaults instead of 100% vi compatibility
+set backspace=2		" more powerful backspacing
+
+" Don't write backup file if vim is being called by "crontab -e"
+au BufWrite /private/tmp/crontab.* set nowritebackup nobackup
+" Don't write backup file if vim is being called by "chpass"
+au BufWrite /private/etc/pw.* set nowritebackup nobackup
+
+colorscheme molokai
+syntax on
+
+
+
+set helplang=cn
+set history=100        " lines of Ex-mode commands, search history
+set clipboard+=unnamed  " use clipboard register '*' for all y, d, c, p ops
+set viminfo+=!          " make sure it can save viminfo
+set isk+=$,%,#,-        " none of these should be word dividers
+set confirm             " raise a dialog confirm whether save changed buffer
+set encoding=utf-8
+set fenc=utf-8          " default fileencoding
+set fencs=utf-8,gb18030,gbk,gb2312,cp936,ucs-bom,euc-jp,
+set shellslash          "路径默认使用正斜杠
+"set laststatus=2
+map Q gq
+
+let g:fencview_autodetect=0
+lang message en_US.UTF-8 "zh_CN.UTF-8   设置消息编码
+set guifont=Monaco:h20
+
+
+set ruler
+set number
+set ai                  " autoindent
+set si                  " smartindent
+set tabstop=4           " tab spacing
+"set tabstop=2           " tab spacing for node
+set shiftwidth=4        " unify it
+"set shiftwidth=2        " unify it
+set expandtab           "用空格缩进 noexpandtab:用制表符缩进
+set smarttab            " use tabs at the start of a line, spaces elsewhere
+set nowrap              " do not wrap lines
+set nowrapscan		" 无折返查找
+set formatoptions+=mM   " thus vim can reformat multibyte text (e.g. Chinese)
+
+set showmatch
+
+"高亮当前行
+set cursorline
+hi CursorLine cterm=NONE ctermbg=darkred ctermfg=white 
+
+set nocompatible              " be iMproved, required
+filetype off                  " required
+"vundle setting
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" alternatively, pass a path where Vundle should install plugins
+"call vundle#begin('~/some/path/here')
+
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+
+
+"#start my plugin
+Plugin 'scrooloose/nerdtree'
+Plugin 'mattn/emmet-vim'
+Plugin 'cakebaker/scss-syntax.vim'
+Plugin 'scrooloose/syntastic'
+"#end my plugin
+
+
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
+filetype plugin indent on    " required
+" To ignore plugin indent changes, instead use:
+"filetype plugin on
+"
+" Brief help
+" :PluginList       - lists configured plugins
+" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
+" :PluginSearch foo - searches for foo; append `!` to refresh local cache
+" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
+"
+" see :h vundle for more details or wiki for FAQ
+" Put your non-Plugin stuff after this line
+

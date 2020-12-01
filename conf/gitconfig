@@ -1,0 +1,10 @@
+[user]
+	name = weixiaoyu
+	email = wei814700185@126.com
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[core]
+  autocrlf = input
+  pager = less -F -X

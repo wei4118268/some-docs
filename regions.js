@@ -15,14 +15,6 @@ export default [{
                 "level": 2,
                 "name": "西城区"
             }, {
-                "code": "110103",
-                "level": 2,
-                "name": "崇文区"
-            }, {
-                "code": "110104",
-                "level": 2,
-                "name": "宣武区"
-            }, {
                 "code": "110105",
                 "level": 2,
                 "name": "朝阳区"
@@ -78,10 +70,6 @@ export default [{
                 "code": "110119",
                 "level": 2,
                 "name": "延庆区"
-            }, {
-                "code": "110140",
-                "level": 2,
-                "name": "经济技术开发区"
             }]
         }]
     },
@@ -117,18 +105,6 @@ export default [{
                 "code": "120106",
                 "level": 2,
                 "name": "红桥区"
-            }, {
-                "code": "120107",
-                "level": 2,
-                "name": "塘沽区"
-            }, {
-                "code": "120108",
-                "level": 2,
-                "name": "汉沽区"
-            }, {
-                "code": "120109",
-                "level": 2,
-                "name": "大港区"
             }, {
                 "code": "120110",
                 "level": 2,
@@ -169,18 +145,6 @@ export default [{
                 "code": "120119",
                 "level": 2,
                 "name": "蓟州区"
-            }, {
-                "code": "120140",
-                "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "120141",
-                "level": 2,
-                "name": "保税区"
-            }, {
-                "code": "120142",
-                "level": 2,
-                "name": "科技园区"
             }]
         }]
     }, {
@@ -195,10 +159,6 @@ export default [{
                 "code": "130102",
                 "level": 2,
                 "name": "长安区"
-            }, {
-                "code": "130103",
-                "level": 2,
-                "name": "桥东区"
             }, {
                 "code": "130104",
                 "level": 2,
@@ -215,6 +175,18 @@ export default [{
                 "code": "130108",
                 "level": 2,
                 "name": "裕华区"
+            }, {
+                "code": "130109",
+                "level": 2,
+                "name": "藁城区"
+            }, {
+                "code": "130110",
+                "level": 2,
+                "name": "鹿泉区"
+            }, {
+                "code": "130111",
+                "level": 2,
+                "name": "栾城区"
             }, {
                 "code": "130121",
                 "level": 2,
@@ -264,29 +236,17 @@ export default [{
                 "level": 2,
                 "name": "赵县"
             }, {
-                "code": "130140",
+                "code": "130171",
                 "level": 2,
-                "name": "开发区"
+                "name": "石家庄高新技术产业开发区"
             }, {
-                "code": "130141",
-                "level": 2,
-                "name": "正定新区"
-            }, {
-                "code": "130142",
+                "code": "130172",
                 "level": 2,
                 "name": "石家庄循环化工园区"
-            }, {
-                "code": "130143",
-                "level": 2,
-                "name": "石家庄综合保税区"
             }, {
                 "code": "130181",
                 "level": 2,
                 "name": "辛集市"
-            }, {
-                "code": "130182",
-                "level": 2,
-                "name": "藁城市"
             }, {
                 "code": "130183",
                 "level": 2,
@@ -295,10 +255,6 @@ export default [{
                 "code": "130184",
                 "level": 2,
                 "name": "新乐市"
-            }, {
-                "code": "130185",
-                "level": 2,
-                "name": "鹿泉市"
             }]
         }, {
             "code": "130200",
@@ -333,10 +289,6 @@ export default [{
                 "level": 2,
                 "name": "曹妃甸区"
             }, {
-                "code": "130223",
-                "level": 2,
-                "name": "滦县"
-            }, {
                 "code": "130224",
                 "level": 2,
                 "name": "滦南县"
@@ -353,29 +305,21 @@ export default [{
                 "level": 2,
                 "name": "玉田县"
             }, {
-                "code": "130240",
+                "code": "130271",
                 "level": 2,
-                "name": "唐山高新技术开发区"
+                "name": "河北唐山芦台经济开发区"
             }, {
-                "code": "130241",
+                "code": "130272",
                 "level": 2,
-                "name": "南堡开发区"
+                "name": "唐山市汉沽管理区"
             }, {
-                "code": "130242",
+                "code": "130273",
                 "level": 2,
-                "name": "海港开发区"
+                "name": "唐山高新技术产业开发区"
             }, {
-                "code": "130243",
+                "code": "130274",
                 "level": 2,
-                "name": "芦台开发区"
-            }, {
-                "code": "130244",
-                "level": 2,
-                "name": "汉沽开发区"
-            }, {
-                "code": "130245",
-                "level": 2,
-                "name": "曹妃甸工业区"
+                "name": "河北唐山海港经济开发区"
             }, {
                 "code": "130281",
                 "level": 2,
@@ -384,6 +328,10 @@ export default [{
                 "code": "130283",
                 "level": 2,
                 "name": "迁安市"
+            }, {
+                "code": "130284",
+                "level": 2,
+                "name": "滦州市"
             }]
         }, {
             "code": "130300",
@@ -402,6 +350,10 @@ export default [{
                 "level": 2,
                 "name": "北戴河区"
             }, {
+                "code": "130306",
+                "level": 2,
+                "name": "抚宁区"
+            }, {
                 "code": "130321",
                 "level": 2,
                 "name": "青龙满族自治县"
@@ -410,19 +362,15 @@ export default [{
                 "level": 2,
                 "name": "昌黎县"
             }, {
-                "code": "130323",
-                "level": 2,
-                "name": "抚宁县"
-            }, {
                 "code": "130324",
                 "level": 2,
                 "name": "卢龙县"
             }, {
-                "code": "130340",
+                "code": "130371",
                 "level": 2,
-                "name": "开发区"
+                "name": "秦皇岛市经济技术开发区"
             }, {
-                "code": "130341",
+                "code": "130372",
                 "level": 2,
                 "name": "北戴河新区"
             }]
@@ -447,9 +395,13 @@ export default [{
                 "level": 2,
                 "name": "峰峰矿区"
             }, {
-                "code": "130421",
+                "code": "130407",
                 "level": 2,
-                "name": "邯郸县"
+                "name": "肥乡区"
+            }, {
+                "code": "130408",
+                "level": 2,
+                "name": "永年区"
             }, {
                 "code": "130423",
                 "level": 2,
@@ -470,14 +422,6 @@ export default [{
                 "code": "130427",
                 "level": 2,
                 "name": "磁县"
-            }, {
-                "code": "130428",
-                "level": 2,
-                "name": "肥乡县"
-            }, {
-                "code": "130429",
-                "level": 2,
-                "name": "永年县"
             }, {
                 "code": "130430",
                 "level": 2,
@@ -503,13 +447,13 @@ export default [{
                 "level": 2,
                 "name": "曲周县"
             }, {
-                "code": "130440",
+                "code": "130471",
                 "level": 2,
-                "name": "开发区"
+                "name": "邯郸经济技术开发区"
             }, {
-                "code": "130441",
+                "code": "130473",
                 "level": 2,
-                "name": "马头生态工业城"
+                "name": "邯郸冀南新区"
             }, {
                 "code": "130481",
                 "level": 2,
@@ -522,15 +466,19 @@ export default [{
             "areaList": [{
                 "code": "130502",
                 "level": 2,
-                "name": "桥东区"
+                "name": "襄都区"
             }, {
                 "code": "130503",
                 "level": 2,
-                "name": "桥西区"
+                "name": "信都区"
             }, {
-                "code": "130521",
+                "code": "130505",
                 "level": 2,
-                "name": "邢台县"
+                "name": "任泽区"
+            }, {
+                "code": "130506",
+                "level": 2,
+                "name": "南和区"
             }, {
                 "code": "130522",
                 "level": 2,
@@ -547,14 +495,6 @@ export default [{
                 "code": "130525",
                 "level": 2,
                 "name": "隆尧县"
-            }, {
-                "code": "130526",
-                "level": 2,
-                "name": "任县"
-            }, {
-                "code": "130527",
-                "level": 2,
-                "name": "南和县"
             }, {
                 "code": "130528",
                 "level": 2,
@@ -588,13 +528,9 @@ export default [{
                 "level": 2,
                 "name": "临西县"
             }, {
-                "code": "130540",
+                "code": "130571",
                 "level": 2,
-                "name": "高开区"
-            }, {
-                "code": "130541",
-                "level": 2,
-                "name": "大曹庄"
+                "name": "河北邢台经济开发区"
             }, {
                 "code": "130581",
                 "level": 2,
@@ -611,27 +547,23 @@ export default [{
             "areaList": [{
                 "code": "130602",
                 "level": 2,
-                "name": "新市区"
-            }, {
-                "code": "130603",
-                "level": 2,
-                "name": "北市区"
-            }, {
-                "code": "130604",
-                "level": 2,
-                "name": "南市区"
+                "name": "竞秀区"
             }, {
                 "code": "130606",
                 "level": 2,
                 "name": "莲池区"
             }, {
-                "code": "130621",
+                "code": "130607",
                 "level": 2,
-                "name": "满城县"
+                "name": "满城区"
             }, {
-                "code": "130622",
+                "code": "130608",
                 "level": 2,
-                "name": "清苑县"
+                "name": "清苑区"
+            }, {
+                "code": "130609",
+                "level": 2,
+                "name": "徐水区"
             }, {
                 "code": "130623",
                 "level": 2,
@@ -640,10 +572,6 @@ export default [{
                 "code": "130624",
                 "level": 2,
                 "name": "阜平县"
-            }, {
-                "code": "130625",
-                "level": 2,
-                "name": "徐水县"
             }, {
                 "code": "130626",
                 "level": 2,
@@ -697,13 +625,13 @@ export default [{
                 "level": 2,
                 "name": "雄县"
             }, {
-                "code": "130640",
+                "code": "130671",
                 "level": 2,
-                "name": "白沟新城"
+                "name": "保定高新技术产业开发区"
             }, {
-                "code": "130641",
+                "code": "130672",
                 "level": 2,
-                "name": "高新区"
+                "name": "保定白沟新城"
             }, {
                 "code": "130681",
                 "level": 2,
@@ -742,9 +670,13 @@ export default [{
                 "level": 2,
                 "name": "下花园区"
             }, {
-                "code": "130721",
+                "code": "130708",
                 "level": 2,
-                "name": "宣化县"
+                "name": "万全区"
+            }, {
+                "code": "130709",
+                "level": 2,
+                "name": "崇礼区"
             }, {
                 "code": "130722",
                 "level": 2,
@@ -774,10 +706,6 @@ export default [{
                 "level": 2,
                 "name": "怀安县"
             }, {
-                "code": "130729",
-                "level": 2,
-                "name": "万全县"
-            }, {
                 "code": "130730",
                 "level": 2,
                 "name": "怀来县"
@@ -790,19 +718,15 @@ export default [{
                 "level": 2,
                 "name": "赤城县"
             }, {
-                "code": "130733",
+                "code": "130771",
                 "level": 2,
-                "name": "崇礼县"
+                "name": "张家口经济开发区"
             }, {
-                "code": "130740",
-                "level": 2,
-                "name": "高新区"
-            }, {
-                "code": "130741",
+                "code": "130772",
                 "level": 2,
                 "name": "察北管理区"
             }, {
-                "code": "130742",
+                "code": "130773",
                 "level": 2,
                 "name": "塞北管理区"
             }]
@@ -831,10 +755,6 @@ export default [{
                 "level": 2,
                 "name": "兴隆县"
             }, {
-                "code": "130823",
-                "level": 2,
-                "name": "平泉县"
-            }, {
                 "code": "130824",
                 "level": 2,
                 "name": "滦平县"
@@ -855,9 +775,13 @@ export default [{
                 "level": 2,
                 "name": "围场满族蒙古族自治县"
             }, {
-                "code": "130840",
+                "code": "130871",
                 "level": 2,
                 "name": "承德高新技术产业开发区"
+            }, {
+                "code": "130881",
+                "level": 2,
+                "name": "平泉市"
             }]
         }, {
             "code": "130900",
@@ -912,29 +836,21 @@ export default [{
                 "level": 2,
                 "name": "孟村回族自治县"
             }, {
-                "code": "130940",
+                "code": "130971",
                 "level": 2,
-                "name": "黄骅港开发区"
+                "name": "河北沧州经济开发区"
             }, {
-                "code": "130941",
+                "code": "130972",
                 "level": 2,
-                "name": "沧州渤海新区中捷产业园区"
+                "name": "沧州高新技术产业开发区"
             }, {
-                "code": "130942",
+                "code": "130973",
                 "level": 2,
-                "name": "沧州市南大港管理区"
+                "name": "沧州渤海新区"
             }, {
                 "code": "130943",
                 "level": 2,
                 "name": "沧州经济技术开发区"
-            }, {
-                "code": "130944",
-                "level": 2,
-                "name": "沧州高新技术产业开发区"
-            }, {
-                "code": "130945",
-                "level": 2,
-                "name": "沧州临港经济技术开发区"
             }, {
                 "code": "130981",
                 "level": 2,
@@ -989,9 +905,9 @@ export default [{
                 "level": 2,
                 "name": "大厂回族自治县"
             }, {
-                "code": "131040",
+                "code": "131071",
                 "level": 2,
-                "name": "开发区"
+                "name": "廊坊经济技术开发区"
             }, {
                 "code": "131081",
                 "level": 2,
@@ -1009,6 +925,10 @@ export default [{
                 "code": "131102",
                 "level": 2,
                 "name": "桃城区"
+            }, {
+                "code": "131103",
+                "level": 2,
+                "name": "冀州区"
             }, {
                 "code": "131121",
                 "level": 2,
@@ -1042,17 +962,13 @@ export default [{
                 "level": 2,
                 "name": "阜城县"
             }, {
-                "code": "131140",
+                "code": "131171",
                 "level": 2,
-                "name": "开发区"
+                "name": "衡水高新技术产业开发区"
             }, {
-                "code": "131141",
+                "code": "131172",
                 "level": 2,
                 "name": "滨湖新区"
-            }, {
-                "code": "131181",
-                "level": 2,
-                "name": "冀州市"
             }, {
                 "code": "131182",
                 "level": 2,
@@ -1063,7 +979,7 @@ export default [{
             "level": 1,
             "name": "雄安新区",
             "areaList": [{
-                "code": "133199",
+                "code": "133101",
                 "level": 2,
                 "name": "辖区"
             }]
@@ -1113,9 +1029,9 @@ export default [{
                 "level": 2,
                 "name": "娄烦县"
             }, {
-                "code": "140140",
+                "code": "140171",
                 "level": 2,
-                "name": "太原经济技术开发区"
+                "name": "山西转型综合改革示范区"
             }, {
                 "code": "140181",
                 "level": 2,
@@ -1166,9 +1082,9 @@ export default [{
                 "level": 2,
                 "name": "左云县"
             }, {
-                "code": "140240",
+                "code": "140271",
                 "level": 2,
-                "name": "开发区"
+                "name": "大同经济开发区"
             }]
         }, {
             "code": "140300",
@@ -1194,10 +1110,6 @@ export default [{
                 "code": "140322",
                 "level": 2,
                 "name": "盂县"
-            }, {
-                "code": "140340",
-                "level": 2,
-                "name": "开发区"
             }]
         }, {
             "code": "140400",
@@ -1252,9 +1164,9 @@ export default [{
                 "level": 2,
                 "name": "沁源县"
             }, {
-                "code": "140441",
+                "code": "140471",
                 "level": 2,
-                "name": "高新区"
+                "name": "长治高新技术产业园区"
             }]
         }, {
             "code": "140500",
@@ -1280,10 +1192,6 @@ export default [{
                 "code": "140525",
                 "level": 2,
                 "name": "泽州县"
-            }, {
-                "code": "140540",
-                "level": 2,
-                "name": "晋城经济技术开发区"
             }, {
                 "code": "140581",
                 "level": 2,
@@ -1314,9 +1222,13 @@ export default [{
                 "level": 2,
                 "name": "右玉县"
             }, {
-                "code": "140624",
+                "code": "140671",
                 "level": 2,
-                "name": "怀仁县"
+                "name": "朔州经济开发区"
+            }, {
+                "code": "140681",
+                "level": 2,
+                "name": "怀仁市"
             }]
         }, {
             "code": "140700",
@@ -1347,10 +1259,6 @@ export default [{
                 "level": 2,
                 "name": "寿阳县"
             }, {
-                "code": "140726",
-                "level": 2,
-                "name": "太谷县"
-            }, {
                 "code": "140727",
                 "level": 2,
                 "name": "祁县"
@@ -1362,10 +1270,6 @@ export default [{
                 "code": "140729",
                 "level": 2,
                 "name": "灵石县"
-            }, {
-                "code": "140740",
-                "level": 2,
-                "name": "榆次经济技术开发区"
             }, {
                 "code": "140781",
                 "level": 2,
@@ -1427,22 +1331,6 @@ export default [{
                 "code": "140882",
                 "level": 2,
                 "name": "河津市"
-            }, {
-                "code": "140840",
-                "level": 2,
-                "name": "运城经济开发区"
-            }, {
-                "code": "140841",
-                "level": 2,
-                "name": "空港经济开发区"
-            }, {
-                "code": "140842",
-                "level": 2,
-                "name": "风陵渡经济开发区"
-            }, {
-                "code": "140843",
-                "level": 2,
-                "name": "绛县经济开发区"
             }]
         }, {
             "code": "140900",
@@ -1501,7 +1389,7 @@ export default [{
                 "level": 2,
                 "name": "偏关县"
             }, {
-                "code": "140940",
+                "code": "140971",
                 "level": 2,
                 "name": "五台山风景名胜区"
             }, {
@@ -1684,6 +1572,10 @@ export default [{
                 "code": "150125",
                 "level": 2,
                 "name": "武川县"
+            }, {
+                "code": "150172",
+                "level": 2,
+                "name": "呼和浩特经济技术开发区"
             }]
         }, {
             "code": "150200",
@@ -1726,7 +1618,7 @@ export default [{
                 "level": 2,
                 "name": "达尔罕茂明安联合旗"
             }, {
-                "code": "150240",
+                "code": "150271",
                 "level": 2,
                 "name": "稀土高新技术产业开发区"
             }]
@@ -1833,6 +1725,10 @@ export default [{
                 "level": 2,
                 "name": "扎鲁特旗"
             }, {
+                "code": "150571",
+                "level": 2,
+                "name": "通辽经济技术开发区"
+            }, {
                 "code": "150581",
                 "level": 2,
                 "name": "霍林郭勒市"
@@ -1845,6 +1741,10 @@ export default [{
                 "code": "150602",
                 "level": 2,
                 "name": "东胜区"
+            }, {
+                "code": "150603",
+                "level": 2,
+                "name": "康巴什区"
             }, {
                 "code": "150621",
                 "level": 2,
@@ -1873,10 +1773,6 @@ export default [{
                 "code": "150627",
                 "level": 2,
                 "name": "伊金霍洛旗"
-            }, {
-                "code": "150640",
-                "level": 2,
-                "name": "康巴什新区"
             }]
         }, {
             "code": "150700",
@@ -1886,6 +1782,10 @@ export default [{
                 "code": "150702",
                 "level": 2,
                 "name": "海拉尔区"
+            }, {
+                "code": "150703",
+                "level": 2,
+                "name": "扎赉诺尔区"
             }, {
                 "code": "150721",
                 "level": 2,
@@ -1914,14 +1814,6 @@ export default [{
                 "code": "150727",
                 "level": 2,
                 "name": "新巴尔虎右旗"
-            }, {
-                "code": "150740",
-                "level": 2,
-                "name": "海拉尔农牧场"
-            }, {
-                "code": "150741",
-                "level": 2,
-                "name": "大兴安岭农牧场"
             }, {
                 "code": "150781",
                 "level": 2,
@@ -2021,10 +1913,6 @@ export default [{
                 "level": 2,
                 "name": "四子王旗"
             }, {
-                "code": "150940",
-                "level": 2,
-                "name": "察哈尔工业园区"
-            }, {
                 "code": "150981",
                 "level": 2,
                 "name": "丰镇市"
@@ -2111,7 +1999,7 @@ export default [{
                 "level": 2,
                 "name": "多伦县"
             }, {
-                "code": "152540",
+                "code": "152571",
                 "level": 2,
                 "name": "乌拉盖开发区"
             }]
@@ -2132,13 +2020,9 @@ export default [{
                 "level": 2,
                 "name": "额济纳旗"
             }, {
-                "code": "152940",
+                "code": "152971",
                 "level": 2,
                 "name": "阿拉善高新技术产业开发区"
-            }, {
-                "code": "152941",
-                "level": 2,
-                "name": "腾格里经济技术开发区"
             }]
         }]
     }, {
@@ -2198,18 +2082,6 @@ export default [{
                 "level": 2,
                 "name": "法库县"
             }, {
-                "code": "210140",
-                "level": 2,
-                "name": "经济技术开发区"
-            }, {
-                "code": "210142",
-                "level": 2,
-                "name": "棋盘山"
-            }, {
-                "code": "210143",
-                "level": 2,
-                "name": "蒲河新城"
-            }, {
                 "code": "210181",
                 "level": 2,
                 "name": "新民市"
@@ -2251,26 +2123,6 @@ export default [{
                 "level": 2,
                 "name": "长海县"
             }, {
-                "code": "210240",
-                "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "210241",
-                "level": 2,
-                "name": "保税区"
-            }, {
-                "code": "210242",
-                "level": 2,
-                "name": "长兴岛临港工业区"
-            }, {
-                "code": "210243",
-                "level": 2,
-                "name": "花园口经济区"
-            }, {
-                "code": "210244",
-                "level": 2,
-                "name": "金普新区"
-            }, {
                 "code": "210281",
                 "level": 2,
                 "name": "瓦房店市"
@@ -2308,22 +2160,6 @@ export default [{
                 "level": 2,
                 "name": "岫岩满族自治县"
             }, {
-                "code": "210340",
-                "level": 2,
-                "name": "鞍山经济开发区"
-            }, {
-                "code": "210341",
-                "level": 2,
-                "name": "鞍山文化旅游开发区"
-            }, {
-                "code": "210342",
-                "level": 2,
-                "name": "鞍山高新产业开发区"
-            }, {
-                "code": "210343",
-                "level": 2,
-                "name": "鞍山市千山风景区"
-            }, {
                 "code": "210381",
                 "level": 2,
                 "name": "海城市"
@@ -2360,10 +2196,6 @@ export default [{
                 "code": "210423",
                 "level": 2,
                 "name": "清原满族自治县"
-            }, {
-                "code": "210440",
-                "level": 2,
-                "name": "抚顺经济开发区"
             }]
         }, {
             "code": "210500",
@@ -2393,10 +2225,6 @@ export default [{
                 "code": "210522",
                 "level": 2,
                 "name": "桓仁满族自治县"
-            }, {
-                "code": "210540",
-                "level": 2,
-                "name": "本溪市高新技术产业开发区"
             }]
         }, {
             "code": "210600",
@@ -2418,10 +2246,6 @@ export default [{
                 "code": "210624",
                 "level": 2,
                 "name": "宽甸满族自治县"
-            }, {
-                "code": "210640",
-                "level": 2,
-                "name": "丹东边境经济合作区"
             }, {
                 "code": "210681",
                 "level": 2,
@@ -2456,18 +2280,6 @@ export default [{
                 "level": 2,
                 "name": "义县"
             }, {
-                "code": "210740",
-                "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "210741",
-                "level": 2,
-                "name": "松山新区"
-            }, {
-                "code": "210742",
-                "level": 2,
-                "name": "锦州龙栖湾新区"
-            }, {
                 "code": "210781",
                 "level": 2,
                 "name": "凌海市"
@@ -2496,10 +2308,6 @@ export default [{
                 "code": "210811",
                 "level": 2,
                 "name": "老边区"
-            }, {
-                "code": "210840",
-                "level": 2,
-                "name": "建筑企业"
             }, {
                 "code": "210881",
                 "level": 2,
@@ -2541,18 +2349,6 @@ export default [{
                 "code": "210922",
                 "level": 2,
                 "name": "彰武县"
-            }, {
-                "code": "210940",
-                "level": 2,
-                "name": "阜新市经济开发区"
-            }, {
-                "code": "210941",
-                "level": 2,
-                "name": "矿区"
-            }, {
-                "code": "210942",
-                "level": 2,
-                "name": "高新技术产业园区"
             }]
         }, {
             "code": "211000",
@@ -2600,21 +2396,13 @@ export default [{
                 "level": 2,
                 "name": "兴隆台区"
             }, {
-                "code": "211121",
+                "code": "211104",
                 "level": 2,
-                "name": "大洼县"
+                "name": "大洼区"
             }, {
                 "code": "211122",
                 "level": 2,
                 "name": "盘山县"
-            }, {
-                "code": "211140",
-                "level": 2,
-                "name": "盘锦辽东湾新区"
-            }, {
-                "code": "211141",
-                "level": 2,
-                "name": "盘锦辽河口生态经济区"
             }]
         }, {
             "code": "211200",
@@ -2640,10 +2428,6 @@ export default [{
                 "code": "211224",
                 "level": 2,
                 "name": "昌图县"
-            }, {
-                "code": "211240",
-                "level": 2,
-                "name": "铁岭经济开发区"
             }, {
                 "code": "211281",
                 "level": 2,
@@ -2677,10 +2461,6 @@ export default [{
                 "code": "211324",
                 "level": 2,
                 "name": "喀喇沁左翼蒙古族自治县"
-            }, {
-                "code": "211340",
-                "level": 2,
-                "name": "朝阳经济技术开发区"
             }, {
                 "code": "211381",
                 "level": 2,
@@ -2753,17 +2533,29 @@ export default [{
                 "level": 2,
                 "name": "双阳区"
             }, {
+                "code": "220113",
+                "level": 2,
+                "name": "九台区"
+            }, {
                 "code": "220122",
                 "level": 2,
                 "name": "农安县"
             }, {
-                "code": "220140",
+                "code": "220171",
                 "level": 2,
-                "name": "开发区"
+                "name": "长春经济技术开发区"
             }, {
-                "code": "220181",
+                "code": "220172",
                 "level": 2,
-                "name": "九台市"
+                "name": "长春净月高新技术产业开发区"
+            }, {
+                "code": "220173",
+                "level": 2,
+                "name": "长春高新技术产业开发区"
+            }, {
+                "code": "220174",
+                "level": 2,
+                "name": "长春汽车经济技术开发区"
             }, {
                 "code": "220182",
                 "level": 2,
@@ -2772,6 +2564,10 @@ export default [{
                 "code": "220183",
                 "level": 2,
                 "name": "德惠市"
+            }, {
+                "code": "220184",
+                "level": 2,
+                "name": "公主岭市"
             }]
         }, {
             "code": "220200",
@@ -2797,6 +2593,18 @@ export default [{
                 "code": "220221",
                 "level": 2,
                 "name": "永吉县"
+            }, {
+                "code": "220271",
+                "level": 2,
+                "name": "吉林经济开发区"
+            }, {
+                "code": "220272",
+                "level": 2,
+                "name": "吉林高新技术产业开发区"
+            }, {
+                "code": "220273",
+                "level": 2,
+                "name": "吉林中国新加坡食品区"
             }, {
                 "code": "220281",
                 "level": 2,
@@ -2834,10 +2642,6 @@ export default [{
                 "code": "220323",
                 "level": 2,
                 "name": "伊通满族自治县"
-            }, {
-                "code": "220381",
-                "level": 2,
-                "name": "公主岭市"
             }, {
                 "code": "220382",
                 "level": 2,
@@ -2947,13 +2751,13 @@ export default [{
                 "level": 2,
                 "name": "乾安县"
             }, {
-                "code": "220724",
+                "code": "220771",
                 "level": 2,
-                "name": "扶余县"
+                "name": "松原经济开发区"
             }, {
-                "code": "220740",
+                "code": "220781",
                 "level": 2,
-                "name": "吉林油田"
+                "name": "扶余市"
             }]
         }, {
             "code": "220800",
@@ -2971,6 +2775,10 @@ export default [{
                 "code": "220822",
                 "level": 2,
                 "name": "通榆县"
+            }, {
+                "code": "220871",
+                "level": 2,
+                "name": "白城经济开发区"
             }, {
                 "code": "220881",
                 "level": 2,
@@ -3068,6 +2876,10 @@ export default [{
                 "level": 2,
                 "name": "阿城区"
             }, {
+                "code": "230113",
+                "level": 2,
+                "name": "双城区"
+            }, {
                 "code": "230123",
                 "level": 2,
                 "name": "依兰县"
@@ -3095,10 +2907,6 @@ export default [{
                 "code": "230129",
                 "level": 2,
                 "name": "延寿县"
-            }, {
-                "code": "230182",
-                "level": 2,
-                "name": "双城市"
             }, {
                 "code": "230183",
                 "level": 2,
@@ -3176,11 +2984,12 @@ export default [{
                 "code": "230281",
                 "level": 2,
                 "name": "讷河市"
-            }, {
-                "code": "230300",
-                "level": 2,
-                "name": "鸡西市"
-            }, {
+            }]
+        }, {
+            "code": "230300",
+            "level": 1,
+            "name": "鸡西市",
+            "areaList": [{
                 "code": "230302",
                 "level": 2,
                 "name": "鸡冠区"
@@ -3215,7 +3024,7 @@ export default [{
             }, {
                 "code": "230382",
                 "level": 2,
-                "name": "密山市"
+                "name": "密山市"            
             }]
         }, {
             "code": "230400",
@@ -3331,75 +3140,51 @@ export default [{
                 "code": "230624",
                 "level": 2,
                 "name": "杜尔伯特蒙古族自治县"
+            }, {
+                "code": "230671",
+                "level": 2,
+                "name": "大庆高新技术产业开发区"
             }]
         }, {
             "code": "230700",
             "level": 1,
             "name": "伊春市",
             "areaList": [{
-                "code": "230702",
+                "code": "230717",
                 "level": 2,
-                "name": "伊春区"
+                "name": "伊美区"
             }, {
-                "code": "230703",
+                "code": "230718",
                 "level": 2,
-                "name": "南岔区"
+                "name": "乌翠区"
             }, {
-                "code": "230704",
+                "code": "230719",
                 "level": 2,
                 "name": "友好区"
-            }, {
-                "code": "230705",
-                "level": 2,
-                "name": "西林区"
-            }, {
-                "code": "230706",
-                "level": 2,
-                "name": "翠峦区"
-            }, {
-                "code": "230707",
-                "level": 2,
-                "name": "新青区"
-            }, {
-                "code": "230708",
-                "level": 2,
-                "name": "美溪区"
-            }, {
-                "code": "230709",
-                "level": 2,
-                "name": "金山屯区"
-            }, {
-                "code": "230710",
-                "level": 2,
-                "name": "五营区"
-            }, {
-                "code": "230711",
-                "level": 2,
-                "name": "乌马河区"
-            }, {
-                "code": "230712",
-                "level": 2,
-                "name": "汤旺河区"
-            }, {
-                "code": "230713",
-                "level": 2,
-                "name": "带岭区"
-            }, {
-                "code": "230714",
-                "level": 2,
-                "name": "乌伊岭区"
-            }, {
-                "code": "230715",
-                "level": 2,
-                "name": "红星区"
-            }, {
-                "code": "230716",
-                "level": 2,
-                "name": "上甘岭区"
             }, {
                 "code": "230722",
                 "level": 2,
                 "name": "嘉荫县"
+            }, {
+                "code": "230723",
+                "level": 2,
+                "name": "汤旺县"
+            }, {
+                "code": "230724",
+                "level": 2,
+                "name": "丰林县"
+            }, {
+                "code": "230725",
+                "level": 2,
+                "name": "大箐山县"
+            }, {
+                "code": "230726",
+                "level": 2,
+                "name": "南岔县"
+            }, {
+                "code": "230751",
+                "level": 2,
+                "name": "金林区"
             }, {
                 "code": "230781",
                 "level": 2,
@@ -3496,6 +3281,10 @@ export default [{
                 "level": 2,
                 "name": "林口县"
             }, {
+                "code": "231071",
+                "level": 2,
+                "name": "牡丹江经济技术开发区"
+            }, {
                 "code": "231081",
                 "level": 2,
                 "name": "绥芬河市"
@@ -3525,10 +3314,6 @@ export default [{
                 "level": 2,
                 "name": "爱辉区"
             }, {
-                "code": "231121",
-                "level": 2,
-                "name": "嫩江县"
-            }, {
                 "code": "231123",
                 "level": 2,
                 "name": "逊克县"
@@ -3545,9 +3330,9 @@ export default [{
                 "level": 2,
                 "name": "五大连池市"
             }, {
-                "code": "231140",
+                "code": "231183",
                 "level": 2,
-                "name": "五大连池风景区自然保护区"
+                "name": "嫩江市"
             }]
         }, {
             "code": "231200",
@@ -3601,19 +3386,7 @@ export default [{
             "areaList": [{
                 "code": "232701",
                 "level": 2,
-                "name": "加格达奇区"
-            }, {
-                "code": "232702",
-                "level": 2,
-                "name": "松岭区"
-            }, {
-                "code": "232703",
-                "level": 2,
-                "name": "新林区"
-            }, {
-                "code": "232704",
-                "level": 2,
-                "name": "呼中区"
+                "name": "漠河市"
             }, {
                 "code": "232721",
                 "level": 2,
@@ -3623,9 +3396,21 @@ export default [{
                 "level": 2,
                 "name": "塔河县"
             }, {
-                "code": "232723",
+                "code": "232761",
                 "level": 2,
-                "name": "漠河市"
+                "name": "加格达奇区"
+            }, {
+                "code": "232762",
+                "level": 2,
+                "name": "松岭区"
+            }, {
+                "code": "232763",
+                "level": 2,
+                "name": "新林区"
+            }, {
+                "code": "232764",
+                "level": 2,
+                "name": "呼中区"
             }]
         }]
     }, {
@@ -3640,10 +3425,6 @@ export default [{
                 "code": "310101",
                 "level": 2,
                 "name": "黄浦区"
-            }, {
-                "code": "310103",
-                "level": 2,
-                "name": "卢湾区"
             }, {
                 "code": "310104",
                 "level": 2,
@@ -3660,10 +3441,6 @@ export default [{
                 "code": "310107",
                 "level": 2,
                 "name": "普陀区"
-            }, {
-                "code": "310108",
-                "level": 2,
-                "name": "闸北区"
             }, {
                 "code": "310109",
                 "level": 2,
@@ -3701,10 +3478,6 @@ export default [{
                 "level": 2,
                 "name": "青浦区"
             }, {
-                "code": "310119",
-                "level": 2,
-                "name": "南汇区"
-            }, {
                 "code": "310120",
                 "level": 2,
                 "name": "奉贤区"
@@ -3727,10 +3500,6 @@ export default [{
                 "level": 2,
                 "name": "玄武区"
             }, {
-                "code": "320103",
-                "level": 2,
-                "name": "白下区"
-            }, {
                 "code": "320104",
                 "level": 2,
                 "name": "秦淮区"
@@ -3742,10 +3511,6 @@ export default [{
                 "code": "320106",
                 "level": 2,
                 "name": "鼓楼区"
-            }, {
-                "code": "320107",
-                "level": 2,
-                "name": "下关区"
             }, {
                 "code": "320111",
                 "level": 2,
@@ -3767,43 +3532,19 @@ export default [{
                 "level": 2,
                 "name": "六合区"
             }, {
-                "code": "320124",
+                "code": "320117",
                 "level": 2,
-                "name": "溧水县"
+                "name": "溧水区"
             }, {
-                "code": "320125",
+                "code": "320118",
                 "level": 2,
-                "name": "高淳县"
-            }, {
-                "code": "320140",
-                "level": 2,
-                "name": "南京化学工业园"
-            }, {
-                "code": "320141",
-                "level": 2,
-                "name": "南京经济技术开发区"
-            }, {
-                "code": "320142",
-                "level": 2,
-                "name": "南京江北新区"
+                "name": "高淳区"
             }]
         }, {
             "code": "320200",
             "level": 1,
             "name": "无锡市",
             "areaList": [{
-                "code": "320202",
-                "level": 2,
-                "name": "崇安区"
-            }, {
-                "code": "320203",
-                "level": 2,
-                "name": "南长区"
-            }, {
-                "code": "320204",
-                "level": 2,
-                "name": "北塘区"
-            }, {
                 "code": "320205",
                 "level": 2,
                 "name": "锡山区"
@@ -3818,7 +3559,11 @@ export default [{
             }, {
                 "code": "320213",
                 "level": 2,
-                "name": "新区"
+                "name": "梁溪区"
+            }, {
+                "code": "320214",
+                "level": 2,
+                "name": "新吴区"
             }, {
                 "code": "320281",
                 "level": 2,
@@ -3840,10 +3585,6 @@ export default [{
                 "code": "320303",
                 "level": 2,
                 "name": "云龙区"
-            }, {
-                "code": "320304",
-                "level": 2,
-                "name": "九里区"
             }, {
                 "code": "320305",
                 "level": 2,
@@ -3877,7 +3618,7 @@ export default [{
                 "level": 2,
                 "name": "邳州市"
             }, {
-                "code": "320340",
+                "code": "320371",
                 "level": 2,
                 "name": "徐州经济技术开发区"
             }]
@@ -3906,31 +3647,19 @@ export default [{
                 "level": 2,
                 "name": "武进区"
             }, {
+                "code": "320413",
+                "level": 2,
+                "name": "金坛区"
+            }, {
                 "code": "320481",
                 "level": 2,
                 "name": "溧阳市"
-            }, {
-                "code": "320482",
-                "level": 2,
-                "name": "金坛市"
             }]
         }, {
             "code": "320500",
             "level": 1,
             "name": "苏州市",
             "areaList": [{
-                "code": "320502",
-                "level": 2,
-                "name": "沧浪区"
-            }, {
-                "code": "320503",
-                "level": 2,
-                "name": "平江区"
-            }, {
-                "code": "320504",
-                "level": 2,
-                "name": "金阊区"
-            }, {
                 "code": "320505",
                 "level": 2,
                 "name": "虎丘区"
@@ -3947,7 +3676,11 @@ export default [{
                 "level": 2,
                 "name": "姑苏区"
             }, {
-                "code": "320540",
+                "code": "320509",
+                "level": 2,
+                "name": "吴江区"
+            }, {
+                "code": "320571",
                 "level": 2,
                 "name": "苏州工业园区"
             }, {
@@ -3963,10 +3696,6 @@ export default [{
                 "level": 2,
                 "name": "昆山市"
             }, {
-                "code": "320584",
-                "level": 2,
-                "name": "吴江市"
-            }, {
                 "code": "320585",
                 "level": 2,
                 "name": "太仓市"
@@ -3976,21 +3705,17 @@ export default [{
             "level": 1,
             "name": "南通市",
             "areaList": [{
-                "code": "320602",
-                "level": 2,
-                "name": "崇川区"
-            }, {
-                "code": "320611",
-                "level": 2,
-                "name": "港闸区"
-            }, {
                 "code": "320612",
                 "level": 2,
                 "name": "通州区"
             }, {
-                "code": "320621",
+                "code": "320613",
                 "level": 2,
-                "name": "海安县"
+                "name": "崇川区"
+            }, {
+                "code": "320614",
+                "level": 2,
+                "name": "海门区"
             }, {
                 "code": "320623",
                 "level": 2,
@@ -4004,17 +3729,13 @@ export default [{
                 "level": 2,
                 "name": "如皋市"
             }, {
-                "code": "320684",
+                "code": "320685",
                 "level": 2,
-                "name": "海门市"
+                "name": "海安市"
             }, {
-                "code": "320640",
+                "code": "320671",
                 "level": 2,
                 "name": "南通经济技术开发区"
-            }, {
-                "code": "320641",
-                "level": 2,
-                "name": "通州湾江海联动开发示范区"
             }]
         }, {
             "code": "320700",
@@ -4025,17 +3746,13 @@ export default [{
                 "level": 2,
                 "name": "连云区"
             }, {
-                "code": "320705",
-                "level": 2,
-                "name": "新浦区"
-            }, {
                 "code": "320706",
                 "level": 2,
                 "name": "海州区"
             }, {
-                "code": "320721",
+                "code": "320707",
                 "level": 2,
-                "name": "赣榆县"
+                "name": "赣榆区"
             }, {
                 "code": "320722",
                 "level": 2,
@@ -4049,21 +3766,13 @@ export default [{
                 "level": 2,
                 "name": "灌南县"
             }, {
-                "code": "320740",
-                "level": 2,
-                "name": "连云港高新技术产业开发区"
-            }, {
-                "code": "320741",
-                "level": 2,
-                "name": "连云港徐圩新区"
-            }, {
-                "code": "320742",
-                "level": 2,
-                "name": "云台山风景名胜区"
-            }, {
-                "code": "320743",
+                "code": "320771",
                 "level": 2,
                 "name": "连云港经济技术开发区"
+            }, {
+                "code": "320772",
+                "level": 2,
+                "name": "连云港高新技术产业开发区"
             }]
         }, {
             "code": "320800",
@@ -4072,15 +3781,11 @@ export default [{
             "areaList": [{
                 "code": "320803",
                 "level": 2,
-                "name": "楚州区"
+                "name": "淮安区"
             }, {
                 "code": "320804",
                 "level": 2,
                 "name": "淮阴区"
-            }, {
-                "code": "320826",
-                "level": 2,
-                "name": "涟水县"
             }, {
                 "code": "320812",
                 "level": 2,
@@ -4090,6 +3795,10 @@ export default [{
                 "level": 2,
                 "name": "洪泽区"
             }, {
+                "code": "320826",
+                "level": 2,
+                "name": "涟水县"
+            }, {
                 "code": "320830",
                 "level": 2,
                 "name": "盱眙县"
@@ -4098,13 +3807,9 @@ export default [{
                 "level": 2,
                 "name": "金湖县"
             }, {
-                "code": "320840",
+                "code": "320871",
                 "level": 2,
                 "name": "淮安经济开发区"
-            }, {
-                "code": "320841",
-                "level": 2,
-                "name": "淮安生态新城"
             }]
         }, {
             "code": "320900",
@@ -4118,6 +3823,10 @@ export default [{
                 "code": "320903",
                 "level": 2,
                 "name": "盐都区"
+            }, {
+                "code": "320904",
+                "level": 2,
+                "name": "大丰区"
             }, {
                 "code": "320921",
                 "level": 2,
@@ -4139,21 +3848,13 @@ export default [{
                 "level": 2,
                 "name": "建湖县"
             }, {
-                "code": "320940",
+                "code": "320971",
                 "level": 2,
                 "name": "盐城经济开发区"
-            }, {
-                "code": "320941",
-                "level": 2,
-                "name": "盐城城南新区"
             }, {
                 "code": "320981",
                 "level": 2,
                 "name": "东台市"
-            }, {
-                "code": "320982",
-                "level": 2,
-                "name": "大丰市"
             }]
         }, {
             "code": "321000",
@@ -4168,25 +3869,17 @@ export default [{
                 "level": 2,
                 "name": "邗江区"
             }, {
-                "code": "321011",
+                "code": "321012",
                 "level": 2,
-                "name": "维扬区"
+                "name": "江都区"
             }, {
                 "code": "321023",
                 "level": 2,
                 "name": "宝应县"
             }, {
-                "code": "321040",
-                "level": 2,
-                "name": "扬州市生态科技新城"
-            }, {
-                "code": "321041",
+                "code": "321071",
                 "level": 2,
                 "name": "扬州经济技术开发区"
-            }, {
-                "code": "321042",
-                "level": 2,
-                "name": "蜀岗-瘦西湖风景名胜区"
             }, {
                 "code": "321081",
                 "level": 2,
@@ -4195,10 +3888,6 @@ export default [{
                 "code": "321084",
                 "level": 2,
                 "name": "高邮市"
-            }, {
-                "code": "321088",
-                "level": 2,
-                "name": "江都市"
             }]
         }, {
             "code": "321100",
@@ -4217,6 +3906,10 @@ export default [{
                 "level": 2,
                 "name": "丹徒区"
             }, {
+                "code": "321117",
+                "level": 2,
+                "name": "镇江新区"
+            }, {
                 "code": "321181",
                 "level": 2,
                 "name": "丹阳市"
@@ -4228,10 +3921,6 @@ export default [{
                 "code": "321183",
                 "level": 2,
                 "name": "句容市"
-            }, {
-                "code": "321140",
-                "level": 2,
-                "name": "镇江经济技术开发区"
             }]
         }, {
             "code": "321200",
@@ -4249,6 +3938,10 @@ export default [{
                 "code": "321204",
                 "level": 2,
                 "name": "姜堰区"
+            }, {
+                "code": "321271",
+                "level": 2,
+                "name": "泰州医药高新技术产业开发区"
             }, {
                 "code": "321281",
                 "level": 2,
@@ -4287,9 +3980,9 @@ export default [{
                 "level": 2,
                 "name": "泗洪县"
             }, {
-                "code": "321340",
+                "code": "321371",
                 "level": 2,
-                "name": "苏州宿迁工业园区"
+                "name": "宿迁经济技术开发区"
             }]
         }]
     }, {
@@ -4304,14 +3997,6 @@ export default [{
                 "code": "330102",
                 "level": 2,
                 "name": "上城区"
-            }, {
-                "code": "330103",
-                "level": 2,
-                "name": "下城区"
-            }, {
-                "code": "330104",
-                "level": 2,
-                "name": "江干区"
             }, {
                 "code": "330105",
                 "level": 2,
@@ -4333,6 +4018,22 @@ export default [{
                 "level": 2,
                 "name": "余杭区"
             }, {
+                "code": "330111",
+                "level": 2,
+                "name": "富阳区"
+            }, {
+                "code": "330112",
+                "level": 2,
+                "name": "临安区"
+            }, {
+                "code": "330113",
+                "level": 2,
+                "name": "临平区"
+            }, {
+                "code": "330114",
+                "level": 2,
+                "name": "钱塘区"
+            }, {
                 "code": "330122",
                 "level": 2,
                 "name": "桐庐县"
@@ -4341,25 +4042,9 @@ export default [{
                 "level": 2,
                 "name": "淳安县"
             }, {
-                "code": "330140",
-                "level": 2,
-                "name": "大江东产业集聚区"
-            }, {
-                "code": "330141",
-                "level": 2,
-                "name": "杭州市经济开发区"
-            }, {
                 "code": "330182",
                 "level": 2,
                 "name": "建德市"
-            }, {
-                "code": "330183",
-                "level": 2,
-                "name": "富阳市"
-            }, {
-                "code": "330185",
-                "level": 2,
-                "name": "临安市"
             }]
         }, {
             "code": "330200",
@@ -4369,10 +4054,6 @@ export default [{
                 "code": "330203",
                 "level": 2,
                 "name": "海曙区"
-            }, {
-                "code": "330204",
-                "level": 2,
-                "name": "江东区"
             }, {
                 "code": "330205",
                 "level": 2,
@@ -4390,6 +4071,10 @@ export default [{
                 "level": 2,
                 "name": "鄞州区"
             }, {
+                "code": "330213",
+                "level": 2,
+                "name": "奉化区"
+            }, {
                 "code": "330225",
                 "level": 2,
                 "name": "象山县"
@@ -4398,26 +4083,6 @@ export default [{
                 "level": 2,
                 "name": "宁海县"
             }, {
-                "code": "330240",
-                "level": 2,
-                "name": "东钱湖区"
-            }, {
-                "code": "330241",
-                "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "330242",
-                "level": 2,
-                "name": "保税区"
-            }, {
-                "code": "330243",
-                "level": 2,
-                "name": "大榭开发区"
-            }, {
-                "code": "330244",
-                "level": 2,
-                "name": "科技院区"
-            }, {
                 "code": "330281",
                 "level": 2,
                 "name": "余姚市"
@@ -4425,10 +4090,6 @@ export default [{
                 "code": "330282",
                 "level": 2,
                 "name": "慈溪市"
-            }, {
-                "code": "330283",
-                "level": 2,
-                "name": "奉化市"
             }]
         }, {
             "code": "330300",
@@ -4447,9 +4108,9 @@ export default [{
                 "level": 2,
                 "name": "瓯海区"
             }, {
-                "code": "330322",
+                "code": "330305",
                 "level": 2,
-                "name": "洞头县"
+                "name": "洞头区"
             }, {
                 "code": "330324",
                 "level": 2,
@@ -4471,9 +4132,9 @@ export default [{
                 "level": 2,
                 "name": "泰顺县"
             }, {
-                "code": "330340",
+                "code": "330371",
                 "level": 2,
-                "name": "开发区"
+                "name": "温州经济技术开发区"
             }, {
                 "code": "330381",
                 "level": 2,
@@ -4482,6 +4143,10 @@ export default [{
                 "code": "330382",
                 "level": 2,
                 "name": "乐清市"
+            }, {
+                "code": "330383",
+                "level": 2,
+                "name": "龙港市"
             }]
         }, {
             "code": "330400",
@@ -4550,9 +4215,13 @@ export default [{
                 "level": 2,
                 "name": "越城区"
             }, {
-                "code": "330621",
+                "code": "330603",
                 "level": 2,
-                "name": "绍兴县"
+                "name": "柯桥区"
+            }, {
+                "code": "330604",
+                "level": 2,
+                "name": "上虞区"
             }, {
                 "code": "330624",
                 "level": 2,
@@ -4561,10 +4230,6 @@ export default [{
                 "code": "330681",
                 "level": 2,
                 "name": "诸暨市"
-            }, {
-                "code": "330682",
-                "level": 2,
-                "name": "上虞市"
             }, {
                 "code": "330683",
                 "level": 2,
@@ -4678,10 +4343,6 @@ export default [{
                 "level": 2,
                 "name": "路桥区"
             }, {
-                "code": "331021",
-                "level": 2,
-                "name": "玉环县"
-            }, {
                 "code": "331022",
                 "level": 2,
                 "name": "三门县"
@@ -4701,6 +4362,10 @@ export default [{
                 "code": "331082",
                 "level": 2,
                 "name": "临海市"
+            }, {
+                "code": "331083",
+                "level": 2,
+                "name": "玉环市"
             }]
         }, {
             "code": "331100",
@@ -4785,21 +4450,17 @@ export default [{
                 "level": 2,
                 "name": "庐江县"
             }, {
-                "code": "340140",
+                "code": "340171",
                 "level": 2,
                 "name": "高新技术产业开发区"
             }, {
-                "code": "340141",
+                "code": "340172",
                 "level": 2,
                 "name": "经济技术开发区"
             }, {
-                "code": "340142",
+                "code": "340173",
                 "level": 2,
-                "name": "新站综合开发实验区"
-            }, {
-                "code": "340143",
-                "level": 2,
-                "name": "巢湖经济开发区"
+                "name": "新站高新技术产业开发区"
             }, {
                 "code": "340181",
                 "level": 2,
@@ -4814,10 +4475,6 @@ export default [{
                 "level": 2,
                 "name": "镜湖区"
             }, {
-                "code": "340203",
-                "level": 2,
-                "name": "弋江区"
-            }, {
                 "code": "340207",
                 "level": 2,
                 "name": "鸠江区"
@@ -4826,25 +4483,33 @@ export default [{
                 "level": 2,
                 "name": "三山区"
             }, {
-                "code": "340221",
+                "code": "340209",
                 "level": 2,
-                "name": "芜湖县"
+                "name": "弋江区"
             }, {
-                "code": "340222",
+                "code": "340210",
                 "level": 2,
-                "name": "繁昌县"
+                "name": "湾沚区"
+            }, {
+                "code": "340212",
+                "level": 2,
+                "name": "繁昌区"
             }, {
                 "code": "340223",
                 "level": 2,
                 "name": "南陵县"
             }, {
-                "code": "340225",
+                "code": "340281",
                 "level": 2,
-                "name": "无为县"
+                "name": "无为市"
             }, {
-                "code": "340240",
+                "code": "340271",
                 "level": 2,
                 "name": "芜湖经济技术开发区"
+            }, {
+                "code": "340272",
+                "level": 2,
+                "name": "芜湖三山经济开发区"
             }]
         }, {
             "code": "340300",
@@ -4879,13 +4544,13 @@ export default [{
                 "level": 2,
                 "name": "固镇县"
             }, {
-                "code": "340340",
+                "code": "340371",
+                "level": 2,
+                "name": "蚌埠高新技术开发区"
+            }, {
+                "code": "340372",
                 "level": 2,
                 "name": "蚌埠经济开发区"
-            }, {
-                "code": "340341",
-                "level": 2,
-                "name": "蚌埠高新技术产业开发区"
             }]
         }, {
             "code": "340400",
@@ -4948,10 +4613,6 @@ export default [{
                 "code": "340523",
                 "level": 2,
                 "name": "和县"
-            }, {
-                "code": "340540",
-                "level": 2,
-                "name": "郑蒲港新区"
             }]
         }, {
             "code": "340600",
@@ -5016,10 +4677,6 @@ export default [{
                 "level": 2,
                 "name": "怀宁县"
             }, {
-                "code": "340824",
-                "level": 2,
-                "name": "潜山县"
-            }, {
                 "code": "340825",
                 "level": 2,
                 "name": "太湖县"
@@ -5040,9 +4697,13 @@ export default [{
                 "level": 2,
                 "name": "桐城市"
             }, {
-                "code": "340840",
+                "code": "340882",
                 "level": 2,
-                "name": "安庆经济技术开发区"
+                "name": "潜山市"
+            }, {
+                "code": "340871",
+                "level": 2,
+                "name": "安庆经济开发区"
             }]
         }, {
             "code": "341000",
@@ -5106,6 +4767,14 @@ export default [{
                 "level": 2,
                 "name": "凤阳县"
             }, {
+                "code": "341171",
+                "level": 2,
+                "name": "中新苏滁高新技术产业开发区"
+            }, {
+                "code": "341172",
+                "level": 2,
+                "name": "滁州经济技术开发区"
+            }, {
                 "code": "341181",
                 "level": 2,
                 "name": "天长市"
@@ -5147,6 +4816,14 @@ export default [{
                 "level": 2,
                 "name": "颍上县"
             }, {
+                "code": "341271",
+                "level": 2,
+                "name": "阜阳合肥现代产业园区"
+            }, {
+                "code": "341272",
+                "level": 2,
+                "name": "阜阳经济技术开发区"
+            }, {
                 "code": "341282",
                 "level": 2,
                 "name": "界首市"
@@ -5175,6 +4852,14 @@ export default [{
                 "code": "341324",
                 "level": 2,
                 "name": "泗县"
+            }, {
+                "code": "341371",
+                "level": 2,
+                "name": "宿州马鞍山现代产业园区"
+            }, {
+                "code": "341372",
+                "level": 2,
+                "name": "宿州经济技术开发区"
             }]
         }, {
             "code": "341500",
@@ -5208,10 +4893,6 @@ export default [{
                 "code": "341525",
                 "level": 2,
                 "name": "霍山县"
-            }, {
-                "code": "341540",
-                "level": 2,
-                "name": "叶集改革发展实验区"
             }]
         }, {
             "code": "341600",
@@ -5254,22 +4935,6 @@ export default [{
                 "code": "341723",
                 "level": 2,
                 "name": "青阳县"
-            }, {
-                "code": "341740",
-                "level": 2,
-                "name": "九华山风景区"
-            }, {
-                "code": "341741",
-                "level": 2,
-                "name": "池州经济技术开发区"
-            }, {
-                "code": "341742",
-                "level": 2,
-                "name": "平天湖风景区"
-            }, {
-                "code": "341743",
-                "level": 2,
-                "name": "江南产业集中区"
             }]
         }, {
             "code": "341800",
@@ -5300,9 +4965,17 @@ export default [{
                 "level": 2,
                 "name": "旌德县"
             }, {
+                "code": "341871",
+                "level": 2,
+                "name": "宣城市经济开发区"
+            }, {
                 "code": "341881",
                 "level": 2,
                 "name": "宁国市"
+            }, {
+                "code": "341882",
+                "level": 2,
+                "name": "广德市"
             }]
         }]
     }, {
@@ -5334,6 +5007,10 @@ export default [{
                 "level": 2,
                 "name": "晋安区"
             }, {
+                "code": "350112",
+                "level": 2,
+                "name": "长乐区"
+            }, {
                 "code": "350121",
                 "level": 2,
                 "name": "闽侯县"
@@ -5361,10 +5038,6 @@ export default [{
                 "code": "350181",
                 "level": 2,
                 "name": "福清市"
-            }, {
-                "code": "350182",
-                "level": 2,
-                "name": "长乐市"
             }]
         }, {
             "code": "350200",
@@ -5419,27 +5092,19 @@ export default [{
                 "code": "350322",
                 "level": 2,
                 "name": "仙游县"
-            }, {
-                "code": "350340",
-                "level": 2,
-                "name": "湄洲岛"
-            }, {
-                "code": "350341",
-                "level": 2,
-                "name": "湄洲湾北岸"
             }]
         }, {
             "code": "350400",
             "level": 1,
             "name": "三明市",
             "areaList": [{
-                "code": "350402",
-                "level": 2,
-                "name": "梅列区"
-            }, {
-                "code": "350403",
+                "code": "350404",
                 "level": 2,
                 "name": "三元区"
+            }, {
+                "code": "350405",
+                "level": 2,
+                "name": "沙县区"
             }, {
                 "code": "350421",
                 "level": 2,
@@ -5460,10 +5125,6 @@ export default [{
                 "code": "350426",
                 "level": 2,
                 "name": "尤溪县"
-            }, {
-                "code": "350427",
-                "level": 2,
-                "name": "沙县"
             }, {
                 "code": "350428",
                 "level": 2,
@@ -5522,10 +5183,6 @@ export default [{
                 "level": 2,
                 "name": "金门县"
             }, {
-                "code": "350540",
-                "level": 2,
-                "name": "泉州台商投资区"
-            }, {
                 "code": "350581",
                 "level": 2,
                 "name": "石狮市"
@@ -5551,6 +5208,14 @@ export default [{
                 "level": 2,
                 "name": "龙文区"
             }, {
+                "code": "350604",
+                "level": 2,
+                "name": "龙海区"
+            }, {
+                "code": "350605",
+                "level": 2,
+                "name": "长泰区"
+            }, {
                 "code": "350622",
                 "level": 2,
                 "name": "云霄县"
@@ -5562,10 +5227,6 @@ export default [{
                 "code": "350624",
                 "level": 2,
                 "name": "诏安县"
-            }, {
-                "code": "350625",
-                "level": 2,
-                "name": "长泰县"
             }, {
                 "code": "350626",
                 "level": 2,
@@ -5582,22 +5243,6 @@ export default [{
                 "code": "350629",
                 "level": 2,
                 "name": "华安县"
-            }, {
-                "code": "350640",
-                "level": 2,
-                "name": "常山开发区"
-            }, {
-                "code": "350681",
-                "level": 2,
-                "name": "龙海市"
-            }, {
-                "code": "350641",
-                "level": 2,
-                "name": "漳州招商局经济技术开发区"
-            }, {
-                "code": "350642",
-                "level": 2,
-                "name": "漳州台商投资区"
             }]
         }, {
             "code": "350700",
@@ -5607,6 +5252,10 @@ export default [{
                 "code": "350702",
                 "level": 2,
                 "name": "延平区"
+            }, {
+                "code": "350703",
+                "level": 2,
+                "name": "建阳区"
             }, {
                 "code": "350721",
                 "level": 2,
@@ -5639,10 +5288,6 @@ export default [{
                 "code": "350783",
                 "level": 2,
                 "name": "建瓯市"
-            }, {
-                "code": "350784",
-                "level": 2,
-                "name": "建阳市"
             }]
         }, {
             "code": "350800",
@@ -5653,13 +5298,13 @@ export default [{
                 "level": 2,
                 "name": "新罗区"
             }, {
+                "code": "350803",
+                "level": 2,
+                "name": "永定区"
+            }, {
                 "code": "350821",
                 "level": 2,
                 "name": "长汀县"
-            }, {
-                "code": "350822",
-                "level": 2,
-                "name": "永定县"
             }, {
                 "code": "350823",
                 "level": 2,
@@ -5717,14 +5362,6 @@ export default [{
                 "code": "350982",
                 "level": 2,
                 "name": "福鼎市"
-            }, {
-                "code": "357000",
-                "level": 2,
-                "name": "福建平潭综合实验区"
-            }, {
-                "code": "357001",
-                "level": 2,
-                "name": "金井片区"
             }]
         }]
     }, {
@@ -5747,14 +5384,6 @@ export default [{
                 "code": "360104",
                 "level": 2,
                 "name": "青云谱区"
-            }, {
-                "code": "360105",
-                "level": 2,
-                "name": "湾里区"
-            }, {
-                "code": "360106",
-                "level": 2,
-                "name": "红谷滩新区"
             }, {
                 "code": "360111",
                 "level": 2,
@@ -5779,14 +5408,6 @@ export default [{
                 "code": "360124",
                 "level": 2,
                 "name": "进贤县"
-            }, {
-                "code": "360150",
-                "level": 2,
-                "name": "英雄开发区"
-            }, {
-                "code": "360151",
-                "level": 2,
-                "name": "桑海开发区"
             }]
         }, {
             "code": "360200",
@@ -5833,10 +5454,6 @@ export default [{
                 "code": "360323",
                 "level": 2,
                 "name": "芦溪县"
-            }, {
-                "code": "360340",
-                "level": 2,
-                "name": "萍乡经济开发区"
             }]
         }, {
             "code": "360400",
@@ -5851,9 +5468,9 @@ export default [{
                 "level": 2,
                 "name": "浔阳区"
             }, {
-                "code": "360421",
+                "code": "360404",
                 "level": 2,
-                "name": "九江县"
+                "name": "柴桑区"
             }, {
                 "code": "360423",
                 "level": 2,
@@ -5871,10 +5488,6 @@ export default [{
                 "level": 2,
                 "name": "德安县"
             }, {
-                "code": "360427",
-                "level": 2,
-                "name": "星子县"
-            }, {
                 "code": "360428",
                 "level": 2,
                 "name": "都昌县"
@@ -5887,21 +5500,17 @@ export default [{
                 "level": 2,
                 "name": "彭泽县"
             }, {
-                "code": "360440",
-                "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "360441",
-                "level": 2,
-                "name": "庐山局"
-            }, {
-                "code": "360442",
-                "level": 2,
-                "name": "共青城开放开发区"
-            }, {
                 "code": "360481",
                 "level": 2,
                 "name": "瑞昌市"
+            }, {
+                "code": "360482",
+                "level": 2,
+                "name": "共青城市"
+            }, {
+                "code": "360483",
+                "level": 2,
+                "name": "庐山市"
             }]
         }, {
             "code": "360500",
@@ -5915,14 +5524,6 @@ export default [{
                 "code": "360521",
                 "level": 2,
                 "name": "分宜县"
-            }, {
-                "code": "360540",
-                "level": 2,
-                "name": "仙女湖区"
-            }, {
-                "code": "360541",
-                "level": 2,
-                "name": "高新技术产业园区"
             }]
         }, {
             "code": "360600",
@@ -5940,18 +5541,6 @@ export default [{
                 "code": "360681",
                 "level": 2,
                 "name": "贵溪市"
-            }, {
-                "code": "360640",
-                "level": 2,
-                "name": "鹰潭高新区"
-            }, {
-                "code": "360641",
-                "level": 2,
-                "name": "龙虎山景区"
-            }, {
-                "code": "360642",
-                "level": 2,
-                "name": "信江新区"
             }]
         }, {
             "code": "360700",
@@ -5990,10 +5579,6 @@ export default [{
                 "level": 2,
                 "name": "安远县"
             }, {
-                "code": "360727",
-                "level": 2,
-                "name": "龙南县"
-            }, {
                 "code": "360728",
                 "level": 2,
                 "name": "定南县"
@@ -6029,6 +5614,10 @@ export default [{
                 "code": "360781",
                 "level": 2,
                 "name": "瑞金市"
+            }, {
+                "code": "360782",
+                "level": 2,
+                "name": "龙南市"
             }]
         }, {
             "code": "360800",
@@ -6180,14 +5769,6 @@ export default [{
                 "code": "361030",
                 "level": 2,
                 "name": "广昌县"
-            }, {
-                "code": "361040",
-                "level": 2,
-                "name": "抚州高新区"
-            }, {
-                "code": "361041",
-                "level": 2,
-                "name": "东临新区"
             }]
         }, {
             "code": "361100",
@@ -6202,9 +5783,9 @@ export default [{
                 "level": 2,
                 "name": "广丰区"
             }, {
-                "code": "361121",
+                "code": "361104",
                 "level": 2,
-                "name": "上饶县"
+                "name": "广信区"
             }, {
                 "code": "361123",
                 "level": 2,
@@ -6237,18 +5818,6 @@ export default [{
                 "code": "361130",
                 "level": 2,
                 "name": "婺源县"
-            }, {
-                "code": "361140",
-                "level": 2,
-                "name": "上饶经济技术开发区"
-            }, {
-                "code": "361141",
-                "level": 2,
-                "name": "上饶高铁经济试验区"
-            }, {
-                "code": "361142",
-                "level": 2,
-                "name": "三清山风景名胜区"
             }, {
                 "code": "361181",
                 "level": 2,
@@ -6296,6 +5865,14 @@ export default [{
                 "level": 2,
                 "name": "济阳区"
             }, {
+                "code": "370116",
+                "level": 2,
+                "name": "莱芜区"
+            }, {
+                "code": "370117",
+                "level": 2,
+                "name": "钢城区"
+            }, {
                 "code": "370124",
                 "level": 2,
                 "name": "平阴县"
@@ -6304,21 +5881,9 @@ export default [{
                 "level": 2,
                 "name": "商河县"
             }, {
-                "code": "370140",
+                "code": "370171",
                 "level": 2,
                 "name": "济南高新技术产业开发区"
-            }, {
-                "code": "370141",
-                "level": 2,
-                "name": "济南市南部山区管理委员会"
-            }, {
-                "code": "370142",
-                "level": 2,
-                "name": "莱芜高新技术产业开发区"
-            }, {
-                "code": "370143",
-                "level": 2,
-                "name": "济南新旧动能转换先行区"
             }]
         }, {
             "code": "370200",
@@ -6353,11 +5918,7 @@ export default [{
                 "level": 2,
                 "name": "即墨区"
             }, {
-                "code": "370240",
-                "level": 2,
-                "name": "保税区"
-            }, {
-                "code": "370241",
+                "code": "370271",
                 "level": 2,
                 "name": "青岛高新技术产业开发区"
             }, {
@@ -6409,18 +5970,6 @@ export default [{
                 "code": "370323",
                 "level": 2,
                 "name": "沂源县"
-            }, {
-                "code": "370340",
-                "level": 2,
-                "name": "高新区"
-            }, {
-                "code": "370341",
-                "level": 2,
-                "name": "文昌湖旅游度假区"
-            }, {
-                "code": "370342",
-                "level": 2,
-                "name": "淄博经济开发区"
             }]
         }, {
             "code": "370400",
@@ -6447,14 +5996,6 @@ export default [{
                 "level": 2,
                 "name": "山亭区"
             }, {
-                "code": "370440",
-                "level": 2,
-                "name": "枣庄矿区"
-            }, {
-                "code": "370441",
-                "level": 2,
-                "name": "枣庄高新技术产业开发区"
-            }, {
                 "code": "370481",
                 "level": 2,
                 "name": "滕州市"
@@ -6472,9 +6013,9 @@ export default [{
                 "level": 2,
                 "name": "河口区"
             }, {
-                "code": "370521",
+                "code": "370505",
                 "level": 2,
-                "name": "垦利县"
+                "name": "垦利区"
             }, {
                 "code": "370522",
                 "level": 2,
@@ -6484,11 +6025,11 @@ export default [{
                 "level": 2,
                 "name": "广饶县"
             }, {
-                "code": "370540",
+                "code": "370571",
                 "level": 2,
                 "name": "东营经济技术开发区"
             }, {
-                "code": "370541",
+                "code": "370572",
                 "level": 2,
                 "name": "东营港经济开发区"
             }]
@@ -6513,21 +6054,17 @@ export default [{
                 "level": 2,
                 "name": "莱山区"
             }, {
-                "code": "370634",
+                "code": "370614",
                 "level": 2,
-                "name": "长岛县"
+                "name": "蓬莱区"
             }, {
-                "code": "370640",
+                "code": "370671",
                 "level": 2,
-                "name": "开发区"
+                "name": "烟台高新技术产业开发区"
             }, {
-                "code": "370641",
+                "code": "370672",
                 "level": 2,
-                "name": "高新区"
-            }, {
-                "code": "370642",
-                "level": 2,
-                "name": "昆嵛山国家级自然保护区"
+                "name": "烟台经济技术开发区"
             }, {
                 "code": "370681",
                 "level": 2,
@@ -6540,10 +6077,6 @@ export default [{
                 "code": "370683",
                 "level": 2,
                 "name": "莱州市"
-            }, {
-                "code": "370684",
-                "level": 2,
-                "name": "蓬莱市"
             }, {
                 "code": "370685",
                 "level": 2,
@@ -6586,25 +6119,9 @@ export default [{
                 "level": 2,
                 "name": "昌乐县"
             }, {
-                "code": "370740",
+                "code": "370772",
                 "level": 2,
                 "name": "潍坊滨海经济技术开发区"
-            }, {
-                "code": "370741",
-                "level": 2,
-                "name": "潍坊高新技术产业开发区"
-            }, {
-                "code": "370742",
-                "level": 2,
-                "name": "潍坊峡山生态经济开发区"
-            }, {
-                "code": "370743",
-                "level": 2,
-                "name": "潍坊综合保税区"
-            }, {
-                "code": "370744",
-                "level": 2,
-                "name": "山东潍坊经济开发区"
             }, {
                 "code": "370781",
                 "level": 2,
@@ -6635,10 +6152,6 @@ export default [{
             "level": 1,
             "name": "济宁市",
             "areaList": [{
-                "code": "370802",
-                "level": 2,
-                "name": "市中区"
-            }, {
                 "code": "370811",
                 "level": 2,
                 "name": "任城区"
@@ -6675,17 +6188,13 @@ export default [{
                 "level": 2,
                 "name": "梁山县"
             }, {
-                "code": "370840",
+                "code": "370871",
                 "level": 2,
-                "name": "济宁经济开发区"
+                "name": "济宁高新技术产业开发区"
             }, {
                 "code": "370881",
                 "level": 2,
                 "name": "曲阜市"
-            }, {
-                "code": "370882",
-                "level": 2,
-                "name": "兖州市"
             }, {
                 "code": "370883",
                 "level": 2,
@@ -6719,14 +6228,6 @@ export default [{
                 "code": "370983",
                 "level": 2,
                 "name": "肥城市"
-            }, {
-                "code": "370940",
-                "level": 2,
-                "name": "泰安高新技术产业开发区"
-            }, {
-                "code": "370941",
-                "level": 2,
-                "name": "泰安市泰山风景名胜区"
             }]
         }, {
             "code": "371000",
@@ -6737,21 +6238,21 @@ export default [{
                 "level": 2,
                 "name": "环翠区"
             }, {
-                "code": "371040",
+                "code": "371003",
+                "level": 2,
+                "name": "文登区"
+            }, {
+                "code": "371071",
                 "level": 2,
                 "name": "威海火炬高技术产业开发区"
             }, {
-                "code": "371041",
+                "code": "371072",
                 "level": 2,
                 "name": "威海经济技术开发区"
             }, {
-                "code": "371042",
+                "code": "371073",
                 "level": 2,
                 "name": "威海临港经济技术开发区"
-            }, {
-                "code": "371043",
-                "level": 2,
-                "name": "南海新区"
             }, {
                 "code": "371081",
                 "level": 2,
@@ -6786,30 +6287,9 @@ export default [{
                 "level": 2,
                 "name": "莒县"
             }, {
-                "code": "371140",
+                "code": "371171",
                 "level": 2,
                 "name": "日照经济技术开发区"
-            }, {
-                "code": "371141",
-                "level": 2,
-                "name": "山海天旅游度假区"
-            }, {
-                "code": "371142",
-                "level": 2,
-                "name": "日照国际海洋城"
-            }]
-        }, {
-            "code": "371200",
-            "level": 1,
-            "name": "莱芜市",
-            "areaList": [{
-                "code": "371202",
-                "level": 2,
-                "name": "莱城区"
-            }, {
-                "code": "371203",
-                "level": 2,
-                "name": "钢城区"
             }]
         }, {
             "code": "371300",
@@ -6864,25 +6344,9 @@ export default [{
                 "level": 2,
                 "name": "临沭县"
             }, {
-                "code": "371340",
-                "level": 2,
-                "name": "临沂经济技术开发区"
-            }, {
-                "code": "371341",
+                "code": "371371",
                 "level": 2,
                 "name": "临沂高新技术产业开发区"
-            }, {
-                "code": "371342",
-                "level": 2,
-                "name": "临沂临港经济开发区"
-            }, {
-                "code": "371343",
-                "level": 2,
-                "name": "蒙山旅游区"
-            }, {
-                "code": "371344",
-                "level": 2,
-                "name": "临沂综合保税区"
             }]
         }, {
             "code": "371400",
@@ -6925,11 +6389,11 @@ export default [{
                 "level": 2,
                 "name": "武城县"
             }, {
-                "code": "371440",
+                "code": "371471",
                 "level": 2,
                 "name": "德州经济技术开发区"
             }, {
-                "code": "371441",
+                "code": "371472",
                 "level": 2,
                 "name": "德州运河经济开发区"
             }, {
@@ -6950,6 +6414,10 @@ export default [{
                 "level": 2,
                 "name": "东昌府区"
             }, {
+                "code": "371503",
+                "level": 2,
+                "name": "茌平区"
+            }, {
                 "code": "371521",
                 "level": 2,
                 "name": "阳谷县"
@@ -6957,10 +6425,6 @@ export default [{
                 "code": "371522",
                 "level": 2,
                 "name": "莘县"
-            }, {
-                "code": "371523",
-                "level": 2,
-                "name": "茌平县"
             }, {
                 "code": "371524",
                 "level": 2,
@@ -6973,18 +6437,6 @@ export default [{
                 "code": "371526",
                 "level": 2,
                 "name": "高唐县"
-            }, {
-                "code": "371540",
-                "level": 2,
-                "name": "聊城经济技术开发区"
-            }, {
-                "code": "371541",
-                "level": 2,
-                "name": "聊城高新技术产业开发区"
-            }, {
-                "code": "371542",
-                "level": 2,
-                "name": "江北水城旅游度假区"
             }, {
                 "code": "371581",
                 "level": 2,
@@ -7019,18 +6471,6 @@ export default [{
                 "level": 2,
                 "name": "博兴县"
             }, {
-                "code": "371640",
-                "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "371641",
-                "level": 2,
-                "name": "滨州高新技术产业开发区"
-            }, {
-                "code": "371642",
-                "level": 2,
-                "name": "滨州北海经济开发区"
-            }, {
                 "code": "371681",
                 "level": 2,
                 "name": "邹平市"
@@ -7043,6 +6483,10 @@ export default [{
                 "code": "371702",
                 "level": 2,
                 "name": "牡丹区"
+            }, {
+                "code": "371703",
+                "level": 2,
+                "name": "定陶区"
             }, {
                 "code": "371721",
                 "level": 2,
@@ -7068,21 +6512,17 @@ export default [{
                 "level": 2,
                 "name": "鄄城县"
             }, {
-                "code": "371727",
-                "level": 2,
-                "name": "定陶县"
-            }, {
                 "code": "371728",
                 "level": 2,
                 "name": "东明县"
             }, {
-                "code": "371740",
+                "code": "371771",
                 "level": 2,
                 "name": "菏泽市经济开发区"
             }, {
-                "code": "371741",
+                "code": "371772",
                 "level": 2,
-                "name": "菏泽高新技术产业开发区"
+                "name": "菏泽高新技术开发区"
             }]
         }]
     }, {
@@ -7122,21 +6562,17 @@ export default [{
                 "level": 2,
                 "name": "中牟县"
             }, {
-                "code": "410140",
-                "level": 2,
-                "name": "郑州高新技术产业开发区"
-            }, {
-                "code": "410141",
+                "code": "410171",
                 "level": 2,
                 "name": "郑州经济技术开发区"
             }, {
-                "code": "410142",
+                "code": "410172",
                 "level": 2,
-                "name": "郑东新区"
+                "name": "郑州高新技术产业开发区"
             }, {
-                "code": "410143",
+                "code": "410173",
                 "level": 2,
-                "name": "郑州新郑综合保税区"
+                "name": "郑州航空港经济综合实验区"
             }, {
                 "code": "410181",
                 "level": 2,
@@ -7179,10 +6615,6 @@ export default [{
                 "level": 2,
                 "name": "禹王台区"
             }, {
-                "code": "410211",
-                "level": 2,
-                "name": "金明区"
-            }, {
                 "code": "410212",
                 "level": 2,
                 "name": "祥符区"
@@ -7224,17 +6656,17 @@ export default [{
                 "level": 2,
                 "name": "涧西区"
             }, {
-                "code": "410306",
+                "code": "410307",
                 "level": 2,
-                "name": "吉利区"
+                "name": "偃师区"
+            }, {
+                "code": "410308",
+                "level": 2,
+                "name": "孟津区"
             }, {
                 "code": "410311",
                 "level": 2,
                 "name": "洛龙区"
-            }, {
-                "code": "410322",
-                "level": 2,
-                "name": "孟津县"
             }, {
                 "code": "410323",
                 "level": 2,
@@ -7264,17 +6696,9 @@ export default [{
                 "level": 2,
                 "name": "伊川县"
             }, {
-                "code": "410340",
+                "code": "410371",
                 "level": 2,
-                "name": "洛阳高新技术开发区"
-            }, {
-                "code": "410341",
-                "level": 2,
-                "name": "洛阳经济技术开发区"
-            }, {
-                "code": "410381",
-                "level": 2,
-                "name": "偃师市"
+                "name": "洛阳高新技术产业开发区"
             }]
         }, {
             "code": "410400",
@@ -7313,13 +6737,13 @@ export default [{
                 "level": 2,
                 "name": "郏县"
             }, {
-                "code": "410440",
-                "level": 2,
-                "name": "新城区"
-            }, {
-                "code": "410441",
+                "code": "410471",
                 "level": 2,
                 "name": "平顶山高新技术产业开发区"
+            }, {
+                "code": "410472",
+                "level": 2,
+                "name": "平顶山市城乡一体化示范区"
             }, {
                 "code": "410481",
                 "level": 2,
@@ -7366,13 +6790,9 @@ export default [{
                 "level": 2,
                 "name": "内黄县"
             }, {
-                "code": "410540",
+                "code": "410571",
                 "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "410541",
-                "level": 2,
-                "name": "安阳新区"
+                "name": "安阳高新技术产业开发区"
             }, {
                 "code": "410581",
                 "level": 2,
@@ -7403,13 +6823,9 @@ export default [{
                 "level": 2,
                 "name": "淇县"
             }, {
-                "code": "410640",
+                "code": "410671",
                 "level": 2,
                 "name": "鹤壁经济技术开发区"
-            }, {
-                "code": "410641",
-                "level": 2,
-                "name": "城乡一体化示范区"
             }]
         }, {
             "code": "410700",
@@ -7452,25 +6868,17 @@ export default [{
                 "level": 2,
                 "name": "封丘县"
             }, {
-                "code": "410728",
-                "level": 2,
-                "name": "长垣县"
-            }, {
-                "code": "410740",
-                "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "410741",
-                "level": 2,
-                "name": "新乡市平原城乡一体化示范区"
-            }, {
-                "code": "410742",
+                "code": "410771",
                 "level": 2,
                 "name": "新乡高新技术产业开发区"
             }, {
-                "code": "410743",
+                "code": "410772",
                 "level": 2,
                 "name": "新乡经济技术开发区"
+            }, {
+                "code": "410773",
+                "level": 2,
+                "name": "新乡市平原城乡一体化示范区"
             }, {
                 "code": "410781",
                 "level": 2,
@@ -7479,6 +6887,10 @@ export default [{
                 "code": "410782",
                 "level": 2,
                 "name": "辉县市"
+            }, {
+                "code": "410783",
+                "level": 2,
+                "name": "长垣市"
             }]
         }, {
             "code": "410800",
@@ -7517,7 +6929,7 @@ export default [{
                 "level": 2,
                 "name": "温县"
             }, {
-                "code": "410840",
+                "code": "410871",
                 "level": 2,
                 "name": "焦作市城乡一体化示范区"
             }, {
@@ -7558,17 +6970,13 @@ export default [{
                 "level": 2,
                 "name": "濮阳县"
             }, {
-                "code": "410940",
-                "level": 2,
-                "name": "濮阳经济技术开发区"
-            }, {
-                "code": "410941",
-                "level": 2,
-                "name": "濮阳城乡一体化示范区"
-            }, {
-                "code": "410942",
+                "code": "410971",
                 "level": 2,
                 "name": "濮阳工业园区"
+            }, {
+                "code": "410972",
+                "level": 2,
+                "name": "濮阳经济技术开发区"
             }]
         }, {
             "code": "411000",
@@ -7583,10 +6991,6 @@ export default [{
                 "level": 2,
                 "name": "建安区"
             }, {
-                "code": "411004",
-                "level": 2,
-                "name": "东城区"
-            }, {
                 "code": "411024",
                 "level": 2,
                 "name": "鄢陵县"
@@ -7595,13 +6999,9 @@ export default [{
                 "level": 2,
                 "name": "襄城县"
             }, {
-                "code": "411040",
+                "code": "411071",
                 "level": 2,
                 "name": "许昌经济技术开发区"
-            }, {
-                "code": "411041",
-                "level": 2,
-                "name": "许昌市城乡一体化示范区"
             }, {
                 "code": "411081",
                 "level": 2,
@@ -7636,7 +7036,7 @@ export default [{
                 "level": 2,
                 "name": "临颍县"
             }, {
-                "code": "411140",
+                "code": "411171",
                 "level": 2,
                 "name": "漯河经济技术开发区"
             }]
@@ -7669,11 +7069,7 @@ export default [{
                 "level": 2,
                 "name": "灵宝市"
             }, {
-                "code": "411240",
-                "level": 2,
-                "name": "三门峡市城乡一体化示范区"
-            }, {
-                "code": "411241",
+                "code": "411271",
                 "level": 2,
                 "name": "三门峡经济开发区"
             }]
@@ -7730,9 +7126,13 @@ export default [{
                 "level": 2,
                 "name": "桐柏县"
             }, {
-                "code": "411340",
+                "code": "411371",
                 "level": 2,
                 "name": "南阳高新技术产业开发区"
+            }, {
+                "code": "411372",
+                "level": 2,
+                "name": "南阳市城乡一体化示范区"
             }, {
                 "code": "411381",
                 "level": 2,
@@ -7775,13 +7175,13 @@ export default [{
                 "level": 2,
                 "name": "夏邑县"
             }, {
-                "code": "411440",
+                "code": "411471",
                 "level": 2,
-                "name": "开发区"
+                "name": "豫东综合物流产业聚集区"
             }, {
-                "code": "411441",
+                "code": "411472",
                 "level": 2,
-                "name": "商丘市城乡一体化示范区"
+                "name": "商丘经济开发区"
             }, {
                 "code": "411481",
                 "level": 2,
@@ -7832,29 +7232,9 @@ export default [{
                 "level": 2,
                 "name": "息县"
             }, {
-                "code": "411540",
-                "level": 2,
-                "name": "南湾湖风景区"
-            }, {
-                "code": "411541",
-                "level": 2,
-                "name": "鸡公山管理区"
-            }, {
-                "code": "411542",
-                "level": 2,
-                "name": "上天梯非金属矿管理区"
-            }, {
-                "code": "411543",
+                "code": "411571",
                 "level": 2,
                 "name": "信阳高新技术产业开发区"
-            }, {
-                "code": "411544",
-                "level": 2,
-                "name": "羊山新区"
-            }, {
-                "code": "411545",
-                "level": 2,
-                "name": "河南潢川经济开发区"
             }]
         }, {
             "code": "411600",
@@ -7864,6 +7244,10 @@ export default [{
                 "code": "411602",
                 "level": 2,
                 "name": "川汇区"
+            }, {
+                "code": "411603",
+                "level": 2,
+                "name": "淮阳区"
             }, {
                 "code": "411621",
                 "level": 2,
@@ -7885,10 +7269,6 @@ export default [{
                 "level": 2,
                 "name": "郸城县"
             }, {
-                "code": "411626",
-                "level": 2,
-                "name": "淮阳县"
-            }, {
                 "code": "411627",
                 "level": 2,
                 "name": "太康县"
@@ -7897,21 +7277,9 @@ export default [{
                 "level": 2,
                 "name": "鹿邑县"
             }, {
-                "code": "411640",
-                "level": 2,
-                "name": "黄泛区"
-            }, {
-                "code": "411641",
-                "level": 2,
-                "name": "周口市城乡一体化示范区"
-            }, {
-                "code": "411642",
+                "code": "411671",
                 "level": 2,
                 "name": "河南周口经济开发区"
-            }, {
-                "code": "411643",
-                "level": 2,
-                "name": "周口港口物流产业集聚区"
             }, {
                 "code": "411681",
                 "level": 2,
@@ -7962,17 +7330,9 @@ export default [{
                 "level": 2,
                 "name": "新蔡县"
             }, {
-                "code": "411740",
+                "code": "411771",
                 "level": 2,
                 "name": "河南驻马店经济开发区"
-            }, {
-                "code": "411741",
-                "level": 2,
-                "name": "驻马店市城乡一体化示范区"
-            }, {
-                "code": "411742",
-                "level": 2,
-                "name": "驻马店市产业集聚区"
             }]
         }, {
             "code": "419000",
@@ -8044,14 +7404,6 @@ export default [{
                 "code": "420117",
                 "level": 2,
                 "name": "新洲区"
-            }, {
-                "code": "420140",
-                "level": 2,
-                "name": "东湖高新开发区"
-            }, {
-                "code": "420141",
-                "level": 2,
-                "name": "武汉经济开发区"
             }]
         }, {
             "code": "420200",
@@ -8078,10 +7430,6 @@ export default [{
                 "level": 2,
                 "name": "阳新县"
             }, {
-                "code": "420240",
-                "level": 2,
-                "name": "黄石市经济技术开发区"
-            }, {
                 "code": "420281",
                 "level": 2,
                 "name": "大冶市"
@@ -8099,9 +7447,9 @@ export default [{
                 "level": 2,
                 "name": "张湾区"
             }, {
-                "code": "420321",
+                "code": "420304",
                 "level": 2,
-                "name": "郧县"
+                "name": "郧阳区"
             }, {
                 "code": "420322",
                 "level": 2,
@@ -8118,14 +7466,6 @@ export default [{
                 "code": "420325",
                 "level": 2,
                 "name": "房县"
-            }, {
-                "code": "420340",
-                "level": 2,
-                "name": "武当山特区"
-            }, {
-                "code": "420341",
-                "level": 2,
-                "name": "十堰经济技术开发区"
             }, {
                 "code": "420381",
                 "level": 2,
@@ -8176,10 +7516,6 @@ export default [{
                 "level": 2,
                 "name": "五峰土家族自治县"
             }, {
-                "code": "420540",
-                "level": 2,
-                "name": "开发区"
-            }, {
                 "code": "420581",
                 "level": 2,
                 "name": "宜都市"
@@ -8221,14 +7557,6 @@ export default [{
                 "level": 2,
                 "name": "保康县"
             }, {
-                "code": "420640",
-                "level": 2,
-                "name": "襄阳高新技术开发区"
-            }, {
-                "code": "420641",
-                "level": 2,
-                "name": "东津新区"
-            }, {
                 "code": "420682",
                 "level": 2,
                 "name": "老河口市"
@@ -8257,18 +7585,6 @@ export default [{
                 "code": "420704",
                 "level": 2,
                 "name": "鄂城区"
-            }, {
-                "code": "420740",
-                "level": 2,
-                "name": "葛店开发区"
-            }, {
-                "code": "420741",
-                "level": 2,
-                "name": "长港农场"
-            }, {
-                "code": "420742",
-                "level": 2,
-                "name": "临港经济区"
             }]
         }, {
             "code": "420800",
@@ -8283,21 +7599,17 @@ export default [{
                 "level": 2,
                 "name": "掇刀区"
             }, {
-                "code": "420821",
-                "level": 2,
-                "name": "京山县"
-            }, {
                 "code": "420822",
                 "level": 2,
                 "name": "沙洋县"
             }, {
-                "code": "420840",
-                "level": 2,
-                "name": "屈家岭管理区"
-            }, {
                 "code": "420881",
                 "level": 2,
                 "name": "钟祥市"
+            }, {
+                "code": "420882",
+                "level": 2,
+                "name": "京山市"
             }]
         }, {
             "code": "420900",
@@ -8349,15 +7661,11 @@ export default [{
                 "level": 2,
                 "name": "公安县"
             }, {
-                "code": "421023",
-                "level": 2,
-                "name": "监利县"
-            }, {
                 "code": "421024",
                 "level": 2,
                 "name": "江陵县"
             }, {
-                "code": "421040",
+                "code": "421071",
                 "level": 2,
                 "name": "荆州经济技术开发区"
             }, {
@@ -8372,6 +7680,10 @@ export default [{
                 "code": "421087",
                 "level": 2,
                 "name": "松滋市"
+            }, {
+                "code": "421088",
+                "level": 2,
+                "name": "监利县"
             }]
         }, {
             "code": "421100",
@@ -8418,7 +7730,7 @@ export default [{
                 "level": 2,
                 "name": "武穴市"
             }, {
-                "code": "421140",
+                "code": "421171",
                 "level": 2,
                 "name": "龙感湖管理区"
             }]
@@ -8456,7 +7768,7 @@ export default [{
             "level": 1,
             "name": "随州市",
             "areaList": [{
-                "code": "421302",
+                "code": "421303",
                 "level": 2,
                 "name": "曾都区"
             }, {
@@ -8556,21 +7868,21 @@ export default [{
                 "level": 2,
                 "name": "雨花区"
             }, {
+                "code": "430112",
+                "level": 2,
+                "name": "望城区"
+            }, {
                 "code": "430121",
                 "level": 2,
                 "name": "长沙县"
             }, {
-                "code": "430122",
-                "level": 2,
-                "name": "望城县"
-            }, {
-                "code": "430124",
-                "level": 2,
-                "name": "宁乡县"
-            }, {
                 "code": "430181",
                 "level": 2,
                 "name": "浏阳市"
+            }, {
+                "code": "430182",
+                "level": 2,
+                "name": "宁乡市"
             }]
         }, {
             "code": "430200",
@@ -8593,9 +7905,9 @@ export default [{
                 "level": 2,
                 "name": "天元区"
             }, {
-                "code": "430221",
+                "code": "430212",
                 "level": 2,
-                "name": "株洲县"
+                "name": "渌口区"
             }, {
                 "code": "430223",
                 "level": 2,
@@ -8613,7 +7925,7 @@ export default [{
                 "level": 2,
                 "name": "醴陵市"
             }, {
-                "code": "430240",
+                "code": "430271",
                 "level": 2,
                 "name": "云龙示范区"
             }]
@@ -8634,13 +7946,17 @@ export default [{
                 "level": 2,
                 "name": "湘潭县"
             }, {
-                "code": "430340",
+                "code": "430371",
                 "level": 2,
-                "name": "高新区"
+                "name": "湖南湘潭高新技术产业园区"
             }, {
-                "code": "430341",
+                "code": "430372",
                 "level": 2,
-                "name": "湘潭经济技术开发区"
+                "name": "湘潭昭山示范区"
+            }, {
+                "code": "430373",
+                "level": 2,
+                "name": "湘潭九华示范区"
             }, {
                 "code": "430381",
                 "level": 2,
@@ -8703,9 +8019,17 @@ export default [{
                 "level": 2,
                 "name": "常宁市"
             }, {
-                "code": "430440",
+                "code": "430471",
                 "level": 2,
-                "name": "衡阳高新技术产业开发区"
+                "name": "衡阳综合保税区"
+            }, {
+                "code": "430472",
+                "level": 2,
+                "name": "湖南衡阳高新技术产业园区"
+            }, {
+                "code": "430473",
+                "level": 2,
+                "name": "湖南衡阳松木经济开发区"
             }]
         }, {
             "code": "430500",
@@ -8723,10 +8047,6 @@ export default [{
                 "code": "430511",
                 "level": 2,
                 "name": "北塔区"
-            }, {
-                "code": "430521",
-                "level": 2,
-                "name": "邵东县"
             }, {
                 "code": "430522",
                 "level": 2,
@@ -8759,6 +8079,10 @@ export default [{
                 "code": "430581",
                 "level": 2,
                 "name": "武冈市"
+            }, {
+                "code": "430582",
+                "level": 2,
+                "name": "邵东市"
             }]
         }, {
             "code": "430600",
@@ -8793,17 +8117,9 @@ export default [{
                 "level": 2,
                 "name": "平江县"
             }, {
-                "code": "430640",
+                "code": "430671",
                 "level": 2,
-                "name": "开发区"
-            }, {
-                "code": "430641",
-                "level": 2,
-                "name": "屈原区"
-            }, {
-                "code": "430642",
-                "level": 2,
-                "name": "南湖旅游度假区"
+                "name": "岳阳市屈原管理区"
             }, {
                 "code": "430681",
                 "level": 2,
@@ -8850,25 +8166,9 @@ export default [{
                 "level": 2,
                 "name": "石门县"
             }, {
-                "code": "430740",
+                "code": "430771",
                 "level": 2,
                 "name": "西洞庭管理区"
-            }, {
-                "code": "430741",
-                "level": 2,
-                "name": "西湖区"
-            }, {
-                "code": "430742",
-                "level": 2,
-                "name": "常德经济技术开发区"
-            }, {
-                "code": "430743",
-                "level": 2,
-                "name": "柳叶湖旅游度假区"
-            }, {
-                "code": "430744",
-                "level": 2,
-                "name": "桃花源风景名胜区"
             }, {
                 "code": "430781",
                 "level": 2,
@@ -8920,11 +8220,11 @@ export default [{
                 "level": 2,
                 "name": "安化县"
             }, {
-                "code": "430940",
+                "code": "430971",
                 "level": 2,
-                "name": "大通湖区"
+                "name": "大通湖管理区"
             }, {
-                "code": "430941",
+                "code": "430972",
                 "level": 2,
                 "name": "益阳高新技术产业开发区"
             }, {
@@ -8977,10 +8277,6 @@ export default [{
                 "level": 2,
                 "name": "安仁县"
             }, {
-                "code": "431040",
-                "level": 2,
-                "name": "郴州高新技术产业园区"
-            }, {
                 "code": "431081",
                 "level": 2,
                 "name": "资兴市"
@@ -8997,10 +8293,6 @@ export default [{
                 "code": "431103",
                 "level": 2,
                 "name": "冷水滩区"
-            }, {
-                "code": "431121",
-                "level": 2,
-                "name": "祁阳县"
             }, {
                 "code": "431122",
                 "level": 2,
@@ -9034,13 +8326,17 @@ export default [{
                 "level": 2,
                 "name": "江华瑶族自治县"
             }, {
-                "code": "431140",
+                "code": "431171",
                 "level": 2,
-                "name": "回龙圩区"
+                "name": "永州经济技术开发区"
             }, {
-                "code": "431141",
+                "code": "431173",
                 "level": 2,
-                "name": "金洞管理区"
+                "name": "永州市回龙圩管理区"
+            }, {
+                "code": "431181",
+                "level": 2,
+                "name": "祁阳市"
             }]
         }, {
             "code": "431200",
@@ -9091,9 +8387,9 @@ export default [{
                 "level": 2,
                 "name": "通道侗族自治县"
             }, {
-                "code": "431240",
+                "code": "431271",
                 "level": 2,
-                "name": "洪江区"
+                "name": "怀化市洪江管理区"
             }, {
                 "code": "431281",
                 "level": 2,
@@ -9289,13 +8585,17 @@ export default [{
                 "level": 2,
                 "name": "盐田区"
             }, {
-                "code": "440342",
+                "code": "440309",
                 "level": 2,
-                "name": "龙华新区"
+                "name": "龙华区"
             }, {
-                "code": "440343",
+                "code": "440310",
                 "level": 2,
-                "name": "大鹏新区"
+                "name": "坪山区"
+            }, {
+                "code": "440311",
+                "level": 2,
+                "name": "光明区"
             }]
         }, {
             "code": "440400",
@@ -9313,26 +8613,6 @@ export default [{
                 "code": "440404",
                 "level": 2,
                 "name": "金湾区"
-            }, {
-                "code": "440440",
-                "level": 2,
-                "name": "万山海洋开发试验区"
-            }, {
-                "code": "440441",
-                "level": 2,
-                "name": "高新技术产业开发区"
-            }, {
-                "code": "440442",
-                "level": 2,
-                "name": "横琴新区"
-            }, {
-                "code": "440443",
-                "level": 2,
-                "name": "高栏港经济区"
-            }, {
-                "code": "440444",
-                "level": 2,
-                "name": "保税区"
             }]
         }, {
             "code": "440500",
@@ -9465,14 +8745,6 @@ export default [{
                 "code": "440883",
                 "level": 2,
                 "name": "吴川市"
-            }, {
-                "code": "440840",
-                "level": 2,
-                "name": "湛江经济技术开发区"
-            }, {
-                "code": "440841",
-                "level": 2,
-                "name": "湛江农垦"
             }]
         }, {
             "code": "440900",
@@ -9483,25 +8755,9 @@ export default [{
                 "level": 2,
                 "name": "茂南区"
             }, {
-                "code": "440903",
-                "level": 2,
-                "name": "茂港区"
-            }, {
                 "code": "440904",
                 "level": 2,
                 "name": "电白区"
-            }, {
-                "code": "440940",
-                "level": 2,
-                "name": "茂名滨海新区"
-            }, {
-                "code": "440941",
-                "level": 2,
-                "name": "茂名高新技术产业开发区"
-            }, {
-                "code": "440923",
-                "level": 2,
-                "name": "电白县"
             }, {
                 "code": "440981",
                 "level": 2,
@@ -9528,6 +8784,10 @@ export default [{
                 "level": 2,
                 "name": "鼎湖区"
             }, {
+                "code": "441204",
+                "level": 2,
+                "name": "高要区"
+            }, {
                 "code": "441223",
                 "level": 2,
                 "name": "广宁县"
@@ -9543,14 +8803,6 @@ export default [{
                 "code": "441226",
                 "level": 2,
                 "name": "德庆县"
-            }, {
-                "code": "441240",
-                "level": 2,
-                "name": "高新区"
-            }, {
-                "code": "441283",
-                "level": 2,
-                "name": "高要市"
             }, {
                 "code": "441284",
                 "level": 2,
@@ -9580,14 +8832,6 @@ export default [{
                 "code": "441324",
                 "level": 2,
                 "name": "龙门县"
-            }, {
-                "code": "441340",
-                "level": 2,
-                "name": "大亚湾经济开发区"
-            }, {
-                "code": "441341",
-                "level": 2,
-                "name": "仲恺高新技术产业开发区"
             }]
         }, {
             "code": "441400",
@@ -9598,9 +8842,9 @@ export default [{
                 "level": 2,
                 "name": "梅江区"
             }, {
-                "code": "441421",
+                "code": "441403",
                 "level": 2,
-                "name": "梅县"
+                "name": "梅县区"
             }, {
                 "code": "441422",
                 "level": 2,
@@ -9643,19 +8887,7 @@ export default [{
                 "level": 2,
                 "name": "陆河县"
             }, {
-                "code": "441540",
-                "level": 2,
-                "name": "红海湾"
-            }, {
-                "code": "441541",
-                "level": 2,
-                "name": "农垦"
-            }, {
-                "code": "441542",
-                "level": 2,
-                "name": "华侨管理区"
-            }, {
-                "code": "441580",
+                "code": "441581",
                 "level": 2,
                 "name": "陆丰市"
             }]
@@ -9687,10 +8919,6 @@ export default [{
                 "code": "441625",
                 "level": 2,
                 "name": "东源县"
-            }, {
-                "code": "441640",
-                "level": 2,
-                "name": "河源江东新区"
             }]
         }, {
             "code": "441700",
@@ -9701,27 +8929,15 @@ export default [{
                 "level": 2,
                 "name": "江城区"
             }, {
+                "code": "441704",
+                "level": 2,
+                "name": "阳东区"
+            }, {
                 "code": "441721",
                 "level": 2,
                 "name": "阳西县"
             }, {
-                "code": "441723",
-                "level": 2,
-                "name": "阳东县"
-            }, {
-                "code": "441741",
-                "level": 2,
-                "name": "农垦"
-            }, {
-                "code": "441742",
-                "level": 2,
-                "name": "海陵区"
-            }, {
-                "code": "441743",
-                "level": 2,
-                "name": "阳江高新技术产业开发区"
-            }, {
-                "code": "441780",
+                "code": "441781",
                 "level": 2,
                 "name": "阳春市"
             }]
@@ -10017,17 +9233,13 @@ export default [{
                 "level": 2,
                 "name": "湘桥区"
             }, {
-                "code": "445121",
+                "code": "445103",
                 "level": 2,
                 "name": "潮安县"
             }, {
                 "code": "445122",
                 "level": 2,
                 "name": "饶平县"
-            }, {
-                "code": "445140",
-                "level": 2,
-                "name": "枫溪区"
             }]
         }, {
             "code": "445200",
@@ -10049,34 +9261,6 @@ export default [{
                 "code": "445224",
                 "level": 2,
                 "name": "惠来县"
-            }, {
-                "code": "445240",
-                "level": 2,
-                "name": "产业园"
-            }, {
-                "code": "445241",
-                "level": 2,
-                "name": "空港经济区"
-            }, {
-                "code": "445242",
-                "level": 2,
-                "name": "大南山区"
-            }, {
-                "code": "445243",
-                "level": 2,
-                "name": "普侨区"
-            }, {
-                "code": "445244",
-                "level": 2,
-                "name": "揭阳高新技术开发区"
-            }, {
-                "code": "445245",
-                "level": 2,
-                "name": "揭阳农垦"
-            }, {
-                "code": "445246",
-                "level": 2,
-                "name": "揭阳大南海石化工业区"
             }, {
                 "code": "445281",
                 "level": 2,
@@ -10141,9 +9325,9 @@ export default [{
                 "level": 2,
                 "name": "邕宁区"
             }, {
-                "code": "450122",
+                "code": "450110",
                 "level": 2,
-                "name": "武鸣县"
+                "name": "武鸣区"
             }, {
                 "code": "450123",
                 "level": 2,
@@ -10161,21 +9345,9 @@ export default [{
                 "level": 2,
                 "name": "宾阳县"
             }, {
-                "code": "450127",
+                "code": "450181",
                 "level": 2,
-                "name": "横县"
-            }, {
-                "code": "450140",
-                "level": 2,
-                "name": "高新技术产业开发区"
-            }, {
-                "code": "450141",
-                "level": 2,
-                "name": "经济技术开发区"
-            }, {
-                "code": "450142",
-                "level": 2,
-                "name": "广西-东盟经济开发区"
+                "name": "横州市"
             }]
         }, {
             "code": "450200",
@@ -10198,9 +9370,9 @@ export default [{
                 "level": 2,
                 "name": "柳北区"
             }, {
-                "code": "450221",
+                "code": "450206",
                 "level": 2,
-                "name": "柳江县"
+                "name": "柳江区"
             }, {
                 "code": "450222",
                 "level": 2,
@@ -10221,14 +9393,6 @@ export default [{
                 "code": "450226",
                 "level": 2,
                 "name": "三江侗族自治县"
-            }, {
-                "code": "450240",
-                "level": 2,
-                "name": "柳州市柳东新区"
-            }, {
-                "code": "450241",
-                "level": 2,
-                "name": "柳州市阳和工业新区"
             }]
         }, {
             "code": "450300",
@@ -10255,13 +9419,13 @@ export default [{
                 "level": 2,
                 "name": "雁山区"
             }, {
+                "code": "450312",
+                "level": 2,
+                "name": "临桂区"
+            }, {
                 "code": "450321",
                 "level": 2,
                 "name": "阳朔县"
-            }, {
-                "code": "450322",
-                "level": 2,
-                "name": "临桂县"
             }, {
                 "code": "450323",
                 "level": 2,
@@ -10295,13 +9459,13 @@ export default [{
                 "level": 2,
                 "name": "平乐县"
             }, {
-                "code": "450331",
-                "level": 2,
-                "name": "荔浦县"
-            }, {
                 "code": "450332",
                 "level": 2,
                 "name": "恭城瑶族自治县"
+            }, {
+                "code": "450381",
+                "level": 2,
+                "name": "荔浦市"
             }]
         }, {
             "code": "450400",
@@ -10398,18 +9562,6 @@ export default [{
                 "code": "450722",
                 "level": 2,
                 "name": "浦北县"
-            }, {
-                "code": "450740",
-                "level": 2,
-                "name": "钦州港经济技术开发区"
-            }, {
-                "code": "450741",
-                "level": 2,
-                "name": "钦州保税港区"
-            }, {
-                "code": "450742",
-                "level": 2,
-                "name": "中国-马来西亚钦州产业园区"
             }]
         }, {
             "code": "450800",
@@ -10465,10 +9617,6 @@ export default [{
                 "level": 2,
                 "name": "兴业县"
             }, {
-                "code": "450940",
-                "level": 2,
-                "name": "玉东新区"
-            }, {
                 "code": "450981",
                 "level": 2,
                 "name": "北流市"
@@ -10482,25 +9630,17 @@ export default [{
                 "level": 2,
                 "name": "右江区"
             }, {
-                "code": "451021",
+                "code": "451003",
                 "level": 2,
-                "name": "田阳县"
+                "name": "田阳区"
             }, {
                 "code": "451022",
                 "level": 2,
                 "name": "田东县"
             }, {
-                "code": "451023",
-                "level": 2,
-                "name": "平果县"
-            }, {
                 "code": "451024",
                 "level": 2,
                 "name": "德保县"
-            }, {
-                "code": "451025",
-                "level": 2,
-                "name": "靖西县"
             }, {
                 "code": "451026",
                 "level": 2,
@@ -10525,6 +9665,14 @@ export default [{
                 "code": "451031",
                 "level": 2,
                 "name": "隆林各族自治县"
+            }, {
+                "code": "451081",
+                "level": 2,
+                "name": "靖西市"
+            }, {
+                "code": "451082",
+                "level": 2,
+                "name": "平果市"
             }]
         }, {
             "code": "451100",
@@ -10534,6 +9682,10 @@ export default [{
                 "code": "451102",
                 "level": 2,
                 "name": "八步区"
+            }, {
+                "code": "451103",
+                "level": 2,
+                "name": "平桂区"
             }, {
                 "code": "451121",
                 "level": 2,
@@ -10546,10 +9698,6 @@ export default [{
                 "code": "451123",
                 "level": 2,
                 "name": "富川瑶族自治县"
-            }, {
-                "code": "451140",
-                "level": 2,
-                "name": "平桂管理区"
             }]
         }, {
             "code": "451200",
@@ -10559,6 +9707,10 @@ export default [{
                 "code": "451202",
                 "level": 2,
                 "name": "金城江区"
+            }, {
+                "code": "451203",
+                "level": 2,
+                "name": "宜州区"
             }, {
                 "code": "451221",
                 "level": 2,
@@ -10595,10 +9747,6 @@ export default [{
                 "code": "451229",
                 "level": 2,
                 "name": "大化瑶族自治县"
-            }, {
-                "code": "451281",
-                "level": 2,
-                "name": "宜州市"
             }]
         }, {
             "code": "451300",
@@ -10693,10 +9841,6 @@ export default [{
             "level": 1,
             "name": "三亚市",
             "areaList": [{
-                "code": "460201",
-                "level": 2,
-                "name": "市辖区"
-            }, {
                 "code": "460202",
                 "level": 2,
                 "name": "海棠区"
@@ -10714,14 +9858,104 @@ export default [{
                 "name": "崖州区"
             }]
         }, {
+            "code": "460300",
+            "level": 1,
+            "name": "三沙市",
+            "areaList": [{
+                "code": "460321",
+                "level": 2,
+                "name": "西沙群岛"
+            }, {
+                "code": "460322",
+                "level": 2,
+                "name": "南沙群岛"
+            }, {
+                "code": "460323",
+                "level": 2,
+                "name": "中沙群岛的岛礁及其海域"
+            }]
+        }, {
+            "code": "460400",
+            "level": 1,
+            "name": "儋州市",
+            "areaList": [{
+                "code": "460401",
+                "level": 2,
+                "name": "那大镇"
+            }, {
+                "code": "460402",
+                "level": 2,
+                "name": "和庆镇"
+            }, {
+                "code": "460403",
+                "level": 2,
+                "name": "南丰镇"
+            }, {
+                "code": "460404",
+                "level": 2,
+                "name": "大成镇"
+            }, {
+                "code": "460405",
+                "level": 2,
+                "name": "雅星镇"
+            }, {
+                "code": "460406",
+                "level": 2,
+                "name": "兰洋镇"
+            }, {
+                "code": "460407",
+                "level": 2,
+                "name": "光村镇"
+            }, {
+                "code": "460408",
+                "level": 2,
+                "name": "木棠镇"
+            }, {
+                "code": "460409",
+                "level": 2,
+                "name": "海头镇"
+            }, {
+                "code": "460410",
+                "level": 2,
+                "name": "峨蔓镇"
+            }, {
+                "code": "460412",
+                "level": 2,
+                "name": "王五镇"
+            }, {
+                "code": "460413",
+                "level": 2,
+                "name": "白马井镇"
+            }, {
+                "code": "460414",
+                "level": 2,
+                "name": "中和镇"
+            }, {
+                "code": "460415",
+                "level": 2,
+                "name": "排浦镇"
+            }, {
+                "code": "460416",
+                "level": 2,
+                "name": "东成镇"
+            }, {
+                "code": "460417",
+                "level": 2,
+                "name": "新州镇"
+            }, {
+                "code": "460422",
+                "level": 2,
+                "name": "洋浦经济开发区"
+            }, {
+                "code": "460423",
+                "level": 2,
+                "name": "华南热作学院"
+            }]
+        }, {
             "code": "469000",
             "level": 1,
             "name": "省直辖县级",
             "areaList": [{
-                "code": "460300",
-                "level": 2,
-                "name": "三沙市"
-            }, {
                 "code": "469001",
                 "level": 2,
                 "name": "五指山市"
@@ -10729,10 +9963,6 @@ export default [{
                 "code": "469002",
                 "level": 2,
                 "name": "琼海市"
-            }, {
-                "code": "469003",
-                "level": 2,
-                "name": "儋州市"
             }, {
                 "code": "469005",
                 "level": 2,
@@ -10885,18 +10115,6 @@ export default [{
                 "level": 2,
                 "name": "璧山区"
             }, {
-                "code": "500142",
-                "level": 2,
-                "name": "两江新区"
-            }, {
-                "code": "500143",
-                "level": 2,
-                "name": "万盛经开区"
-            }, {
-                "code": "500144",
-                "level": 2,
-                "name": "重庆高新技术产业开发"
-            }, {
                 "code": "500151",
                 "level": 2,
                 "name": "铜梁区"
@@ -10920,7 +10138,12 @@ export default [{
                 "code": "500156",
                 "level": 2,
                 "name": "武隆区"
-            }, {
+            }]
+        }, {
+            "code": "500200",
+            "level": 1,
+            "name": "县",
+            "areaList": [{
                 "code": "500229",
                 "level": 2,
                 "name": "城口县"
@@ -11019,13 +10242,13 @@ export default [{
                 "level": 2,
                 "name": "郫都区"
             }, {
+                "code": "510118",
+                "level": 2,
+                "name": "新津区"
+            }, {
                 "code": "510121",
                 "level": 2,
                 "name": "金堂县"
-            }, {
-                "code": "510122",
-                "level": 2,
-                "name": "双流县"
             }, {
                 "code": "510129",
                 "level": 2,
@@ -11034,18 +10257,6 @@ export default [{
                 "code": "510131",
                 "level": 2,
                 "name": "蒲江县"
-            }, {
-                "code": "510132",
-                "level": 2,
-                "name": "新津县"
-            }, {
-                "code": "510140",
-                "level": 2,
-                "name": "高新区"
-            }, {
-                "code": "510141",
-                "level": 2,
-                "name": "天府新区"
             }, {
                 "code": "510181",
                 "level": 2,
@@ -11095,10 +10306,6 @@ export default [{
                 "code": "510322",
                 "level": 2,
                 "name": "富顺县"
-            }, {
-                "code": "510340",
-                "level": 2,
-                "name": "自贡高新区"
             }]
         }, {
             "code": "510400",
@@ -11167,13 +10374,13 @@ export default [{
                 "level": 2,
                 "name": "旌阳区"
             }, {
+                "code": "510604",
+                "level": 2,
+                "name": "罗江区"
+            }, {
                 "code": "510623",
                 "level": 2,
                 "name": "中江县"
-            }, {
-                "code": "510626",
-                "level": 2,
-                "name": "罗江县"
             }, {
                 "code": "510681",
                 "level": 2,
@@ -11200,6 +10407,10 @@ export default [{
                 "level": 2,
                 "name": "游仙区"
             }, {
+                "code": "510705",
+                "level": 2,
+                "name": "安州区"
+            }, {
                 "code": "510722",
                 "level": 2,
                 "name": "三台县"
@@ -11207,10 +10418,6 @@ export default [{
                 "code": "510723",
                 "level": 2,
                 "name": "盐亭县"
-            }, {
-                "code": "510724",
-                "level": 2,
-                "name": "安县"
             }, {
                 "code": "510725",
                 "level": 2,
@@ -11223,26 +10430,6 @@ export default [{
                 "code": "510727",
                 "level": 2,
                 "name": "平武县"
-            }, {
-                "code": "510740",
-                "level": 2,
-                "name": "高新区"
-            }, {
-                "code": "510741",
-                "level": 2,
-                "name": "绵阳科学城"
-            }, {
-                "code": "510742",
-                "level": 2,
-                "name": "绵阳经济技术开发区"
-            }, {
-                "code": "510743",
-                "level": 2,
-                "name": "仙海水利经济开发区"
-            }, {
-                "code": "510745",
-                "level": 2,
-                "name": "绵阳科技城科教创业园区"
             }, {
                 "code": "510781",
                 "level": 2,
@@ -11280,10 +10467,6 @@ export default [{
                 "code": "510824",
                 "level": 2,
                 "name": "苍溪县"
-            }, {
-                "code": "510840",
-                "level": 2,
-                "name": "经济技术开发区"
             }]
         }, {
             "code": "510900",
@@ -11302,13 +10485,13 @@ export default [{
                 "level": 2,
                 "name": "蓬溪县"
             }, {
-                "code": "510922",
-                "level": 2,
-                "name": "射洪县"
-            }, {
                 "code": "510923",
                 "level": 2,
                 "name": "大英县"
+            }, {
+                "code": "510981",
+                "level": 2,
+                "name": "射洪市"
             }]
         }, {
             "code": "511000",
@@ -11331,13 +10514,13 @@ export default [{
                 "level": 2,
                 "name": "资中县"
             }, {
-                "code": "511028",
+                "code": "511071",
                 "level": 2,
-                "name": "隆昌县"
+                "name": "内江经济开发区"
             }, {
-                "code": "511040",
+                "code": "511083",
                 "level": 2,
-                "name": "内江高新区"
+                "name": "隆昌市"
             }]
         }, {
             "code": "511100",
@@ -11471,9 +10654,9 @@ export default [{
                 "level": 2,
                 "name": "南溪区"
             }, {
-                "code": "511521",
+                "code": "511504",
                 "level": 2,
-                "name": "宜宾县"
+                "name": "叙州区"
             }, {
                 "code": "511523",
                 "level": 2,
@@ -11502,10 +10685,6 @@ export default [{
                 "code": "511529",
                 "level": 2,
                 "name": "屏山县"
-            }, {
-                "code": "511540",
-                "level": 2,
-                "name": "临港经济开发区"
             }]
         }, {
             "code": "511600",
@@ -11535,18 +10714,6 @@ export default [{
                 "code": "511681",
                 "level": 2,
                 "name": "华蓥市"
-            }, {
-                "code": "511640",
-                "level": 2,
-                "name": "广安市经济技术开发区"
-            }, {
-                "code": "511641",
-                "level": 2,
-                "name": "枣山物流商贸园区"
-            }, {
-                "code": "511642",
-                "level": 2,
-                "name": "协兴生态文化旅游园区"
             }]
         }, {
             "code": "511700",
@@ -11576,6 +10743,10 @@ export default [{
                 "code": "511725",
                 "level": 2,
                 "name": "渠县"
+            }, {
+                "code": "511771",
+                "level": 2,
+                "name": "达州经济开发区"
             }, {
                 "code": "511781",
                 "level": 2,
@@ -11643,7 +10814,7 @@ export default [{
                 "level": 2,
                 "name": "平昌县"
             }, {
-                "code": "511940",
+                "code": "511971",
                 "level": 2,
                 "name": "巴中经济开发区"
             }]
@@ -11720,10 +10891,6 @@ export default [{
                 "code": "513233",
                 "level": 2,
                 "name": "红原县"
-            }, {
-                "code": "513240",
-                "level": 2,
-                "name": "卧龙特区"
             }]
         }, {
             "code": "513300",
@@ -11811,6 +10978,10 @@ export default [{
                 "level": 2,
                 "name": "西昌市"
             }, {
+                "code": "513402",
+                "level": 2,
+                "name": "会理市"
+            }, {
                 "code": "513422",
                 "level": 2,
                 "name": "木里藏族自治县"
@@ -11822,10 +10993,6 @@ export default [{
                 "code": "513424",
                 "level": 2,
                 "name": "德昌县"
-            }, {
-                "code": "513425",
-                "level": 2,
-                "name": "会理县"
             }, {
                 "code": "513426",
                 "level": 2,
@@ -11905,9 +11072,9 @@ export default [{
                 "level": 2,
                 "name": "白云区"
             }, {
-                "code": "520114",
+                "code": "520115",
                 "level": 2,
-                "name": "小河区"
+                "name": "观山湖区"
             }, {
                 "code": "520121",
                 "level": 2,
@@ -11924,10 +11091,6 @@ export default [{
                 "code": "520181",
                 "level": 2,
                 "name": "清镇市"
-            }, {
-                "code": "520115",
-                "level": 2,
-                "name": "观山湖区"
             }]
         }, {
             "code": "520200",
@@ -11942,13 +11105,9 @@ export default [{
                 "level": 2,
                 "name": "六枝特区"
             }, {
-                "code": "520221",
+                "code": "520204",
                 "level": 2,
-                "name": "水城县"
-            }, {
-                "code": "520240",
-                "level": 2,
-                "name": "钟山经济开发区"
+                "name": "水城区"
             }, {
                 "code": "520281",
                 "level": 2,
@@ -12007,10 +11166,6 @@ export default [{
                 "level": 2,
                 "name": "习水县"
             }, {
-                "code": "520340",
-                "level": 2,
-                "name": "新蒲新区"
-            }, {
                 "code": "520381",
                 "level": 2,
                 "name": "赤水市"
@@ -12028,9 +11183,9 @@ export default [{
                 "level": 2,
                 "name": "西秀区"
             }, {
-                "code": "520421",
+                "code": "520403",
                 "level": 2,
-                "name": "平坝县"
+                "name": "平坝区"
             }, {
                 "code": "520422",
                 "level": 2,
@@ -12047,14 +11202,6 @@ export default [{
                 "code": "520425",
                 "level": 2,
                 "name": "紫云苗族布依族自治县"
-            }, {
-                "code": "520440",
-                "level": 2,
-                "name": "经济技术开发区"
-            }, {
-                "code": "520441",
-                "level": 2,
-                "name": "黄果树管委会"
             }]
         }, {
             "code": "520500",
@@ -12068,10 +11215,6 @@ export default [{
                 "code": "520521",
                 "level": 2,
                 "name": "大方县"
-            }, {
-                "code": "520522",
-                "level": 2,
-                "name": "黔西县"
             }, {
                 "code": "520523",
                 "level": 2,
@@ -12100,6 +11243,10 @@ export default [{
                 "code": "520541",
                 "level": 2,
                 "name": "金海湖新区"
+            }, {
+                "code": "520581",
+                "level": 2,
+                "name": "黔西市"
             }]
         }, {
             "code": "520600",
@@ -12145,10 +11292,6 @@ export default [{
                 "code": "520628",
                 "level": 2,
                 "name": "松桃苗族自治县"
-            }, {
-                "code": "520640",
-                "level": 2,
-                "name": "大龙开发区"
             }]
         }, {
             "code": "522300",
@@ -12186,10 +11329,6 @@ export default [{
                 "code": "522328",
                 "level": 2,
                 "name": "安龙县"
-            }, {
-                "code": "522340",
-                "level": 2,
-                "name": "黔西南高新技术产业开发区"
             }]
         }, {
             "code": "522600",
@@ -12259,10 +11398,6 @@ export default [{
                 "code": "522636",
                 "level": 2,
                 "name": "丹寨县"
-            }, {
-                "code": "522640",
-                "level": 2,
-                "name": "凯里经济开发区"
             }]
         }, {
             "code": "522700",
@@ -12316,10 +11451,6 @@ export default [{
                 "code": "522732",
                 "level": 2,
                 "name": "三都水族自治县"
-            }, {
-                "code": "522740",
-                "level": 2,
-                "name": "都匀经济开发区"
             }]
         }, {
             "code": "527000",
@@ -12392,26 +11523,6 @@ export default [{
                 "level": 2,
                 "name": "寻甸回族彝族自治县"
             }, {
-                "code": "530140",
-                "level": 2,
-                "name": "昆明滇池国家旅游度假区"
-            }, {
-                "code": "530141",
-                "level": 2,
-                "name": "昆明阳宗海风景名胜区"
-            }, {
-                "code": "530142",
-                "level": 2,
-                "name": "昆明经济技术开发区"
-            }, {
-                "code": "530143",
-                "level": 2,
-                "name": "昆明高新技术产业开发区"
-            }, {
-                "code": "530144",
-                "level": 2,
-                "name": "轿子山旅游开发区"
-            }, {
                 "code": "530181",
                 "level": 2,
                 "name": "安宁市"
@@ -12456,10 +11567,6 @@ export default [{
                 "code": "530381",
                 "level": 2,
                 "name": "宣威市"
-            }, {
-                "code": "530340",
-                "level": 2,
-                "name": "曲靖经济技术开发区"
             }]
         }, {
             "code": "530400",
@@ -12692,6 +11799,10 @@ export default [{
                 "level": 2,
                 "name": "楚雄市"
             }, {
+                "code": "532302",
+                "level": 2,
+                "name": "禄丰市"
+            }, {
                 "code": "532322",
                 "level": 2,
                 "name": "双柏县"
@@ -12723,10 +11834,6 @@ export default [{
                 "code": "532329",
                 "level": 2,
                 "name": "武定县"
-            }, {
-                "code": "532331",
-                "level": 2,
-                "name": "禄丰县"
             }]
         }, {
             "code": "532500",
@@ -12943,9 +12050,9 @@ export default [{
             "level": 1,
             "name": "迪庆藏族自治州",
             "areaList": [{
-                "code": "533421",
+                "code": "533401",
                 "level": 2,
-                "name": "香格里拉县"
+                "name": "香格里拉市"
             }, {
                 "code": "533422",
                 "level": 2,
@@ -12996,6 +12103,22 @@ export default [{
                 "code": "540127",
                 "level": 2,
                 "name": "墨竹工卡县"
+            }, {
+                "code": "540171",
+                "level": 2,
+                "name": "格尔木藏青工业园区"
+            }, {
+                "code": "540172",
+                "level": 2,
+                "name": "拉萨经济技术开发区"
+            }, {
+                "code": "540173",
+                "level": 2,
+                "name": "西藏文化旅游创意园区"
+            }, {
+                "code": "540174",
+                "level": 2,
+                "name": "达孜工业园区"
             }]
         }, {
             "code": "540200",
@@ -13352,22 +12475,6 @@ export default [{
                 "code": "610124",
                 "level": 2,
                 "name": "周至县"
-            }, {
-                "code": "610140",
-                "level": 2,
-                "name": "西安高新技术产业开发区"
-            }, {
-                "code": "610141",
-                "level": 2,
-                "name": "西安经济开发区"
-            }, {
-                "code": "610142",
-                "level": 2,
-                "name": "西安国家民用航天产业基地"
-            }, {
-                "code": "610143",
-                "level": 2,
-                "name": "西安国际港务区"
             }]
         }, {
             "code": "610200",
@@ -13389,10 +12496,6 @@ export default [{
                 "code": "610222",
                 "level": 2,
                 "name": "宜君县"
-            }, {
-                "code": "610240",
-                "level": 2,
-                "name": "铜川市新区"
             }]
         }, {
             "code": "610300",
@@ -13411,9 +12514,9 @@ export default [{
                 "level": 2,
                 "name": "陈仓区"
             }, {
-                "code": "610322",
+                "code": "610305",
                 "level": 2,
-                "name": "凤翔县"
+                "name": "凤翔区"
             }, {
                 "code": "610323",
                 "level": 2,
@@ -13446,10 +12549,6 @@ export default [{
                 "code": "610331",
                 "level": 2,
                 "name": "太白县"
-            }, {
-                "code": "610340",
-                "level": 2,
-                "name": "宝鸡市高新区"
             }]
         }, {
             "code": "610400",
@@ -13488,10 +12587,6 @@ export default [{
                 "level": 2,
                 "name": "永寿县"
             }, {
-                "code": "610427",
-                "level": 2,
-                "name": "彬县"
-            }, {
                 "code": "610428",
                 "level": 2,
                 "name": "长武县"
@@ -13511,6 +12606,10 @@ export default [{
                 "code": "610481",
                 "level": 2,
                 "name": "兴平市"
+            }, {
+                "code": "610482",
+                "level": 2,
+                "name": "彬州市"
             }]
         }, {
             "code": "610500",
@@ -13521,9 +12620,9 @@ export default [{
                 "level": 2,
                 "name": "临渭区"
             }, {
-                "code": "610521",
+                "code": "610503",
                 "level": 2,
-                "name": "华县"
+                "name": "华州区"
             }, {
                 "code": "610522",
                 "level": 2,
@@ -13553,14 +12652,6 @@ export default [{
                 "level": 2,
                 "name": "富平县"
             }, {
-                "code": "610540",
-                "level": 2,
-                "name": "高新技术产业开发区"
-            }, {
-                "code": "610541",
-                "level": 2,
-                "name": "渭南市经开区"
-            }, {
                 "code": "610581",
                 "level": 2,
                 "name": "韩城市"
@@ -13589,10 +12680,6 @@ export default [{
                 "code": "610622",
                 "level": 2,
                 "name": "延川县"
-            }, {
-                "code": "610623",
-                "level": 2,
-                "name": "子长县"
             }, {
                 "code": "610625",
                 "level": 2,
@@ -13625,6 +12712,10 @@ export default [{
                 "code": "610632",
                 "level": 2,
                 "name": "黄陵县"
+            }, {
+                "code": "610681",
+                "level": 2,
+                "name": "子长市"
             }]
         }, {
             "code": "610700",
@@ -13635,9 +12726,9 @@ export default [{
                 "level": 2,
                 "name": "汉台区"
             }, {
-                "code": "610721",
+                "code": "610703",
                 "level": 2,
-                "name": "南郑县"
+                "name": "南郑区"
             }, {
                 "code": "610722",
                 "level": 2,
@@ -13684,17 +12775,13 @@ export default [{
                 "level": 2,
                 "name": "榆阳区"
             }, {
-                "code": "610821",
+                "code": "610803",
                 "level": 2,
-                "name": "神木县"
+                "name": "横山区"
             }, {
                 "code": "610822",
                 "level": 2,
                 "name": "府谷县"
-            }, {
-                "code": "610823",
-                "level": 2,
-                "name": "横山县"
             }, {
                 "code": "610824",
                 "level": 2,
@@ -13727,6 +12814,10 @@ export default [{
                 "code": "610831",
                 "level": 2,
                 "name": "子洲县"
+            }, {
+                "code": "610881",
+                "level": 2,
+                "name": "神木市"
             }]
         }, {
             "code": "610900",
@@ -13765,17 +12856,13 @@ export default [{
                 "level": 2,
                 "name": "镇坪县"
             }, {
-                "code": "610928",
-                "level": 2,
-                "name": "旬阳县"
-            }, {
                 "code": "610929",
                 "level": 2,
                 "name": "白河县"
             }, {
-                "code": "610940",
+                "code": "610981",
                 "level": 2,
-                "name": "安康市高新区"
+                "name": "旬阳市"
             }]
         }, {
             "code": "611000",
@@ -13881,7 +12968,7 @@ export default [{
                 "level": 2,
                 "name": "榆中县"
             }, {
-                "code": "620140",
+                "code": "620171",
                 "level": 2,
                 "name": "兰州新区"
             }]
@@ -14036,10 +13123,6 @@ export default [{
                 "level": 2,
                 "name": "崇信县"
             }, {
-                "code": "620824",
-                "level": 2,
-                "name": "华亭县"
-            }, {
                 "code": "620825",
                 "level": 2,
                 "name": "庄浪县"
@@ -14047,6 +13130,10 @@ export default [{
                 "code": "620826",
                 "level": 2,
                 "name": "静宁县"
+            }, {
+                "code": "620881",
+                "level": 2,
+                "name": "华亭市"
             }]
         }, {
             "code": "620900",
@@ -14265,10 +13352,6 @@ export default [{
                 "code": "623027",
                 "level": 2,
                 "name": "夏河县"
-            }, {
-                "code": "627000",
-                "level": 2,
-                "name": "甘肃矿区"
             }]
         }]
     }, {
@@ -14309,31 +13392,31 @@ export default [{
                 "name": "湟源县"
             }]
         }, {
-            "code": "632100",
+            "code": "630200",
             "level": 1,
-            "name": "海东地区",
+            "name": "海东市",
             "areaList": [{
-                "code": "632121",
+                "code": "630202",
                 "level": 2,
-                "name": "平安县"
+                "name": "乐都区"
             }, {
-                "code": "632122",
+                "code": "630203",
+                "level": 2,
+                "name": "平安区"
+            }, {
+                "code": "630222",
                 "level": 2,
                 "name": "民和回族土族自治县"
             }, {
-                "code": "632123",
-                "level": 2,
-                "name": "乐都县"
-            }, {
-                "code": "632126",
+                "code": "630223",
                 "level": 2,
                 "name": "互助土族自治县"
             }, {
-                "code": "632127",
+                "code": "630224",
                 "level": 2,
                 "name": "化隆回族自治县"
             }, {
-                "code": "632128",
+                "code": "630225",
                 "level": 2,
                 "name": "循化撒拉族自治县"
             }]
@@ -14363,9 +13446,9 @@ export default [{
             "level": 1,
             "name": "黄南藏族自治州",
             "areaList": [{
-                "code": "632321",
+                "code": "632301",
                 "level": 2,
-                "name": "同仁县"
+                "name": "同仁市"
             }, {
                 "code": "632322",
                 "level": 2,
@@ -14378,10 +13461,6 @@ export default [{
                 "code": "632324",
                 "level": 2,
                 "name": "河南蒙古族自治县"
-            }, {
-                "code": "632340",
-                "level": 2,
-                "name": "李家峡"
             }]
         }, {
             "code": "632500",
@@ -14407,10 +13486,6 @@ export default [{
                 "code": "632525",
                 "level": 2,
                 "name": "贵南县"
-            }, {
-                "code": "632540",
-                "level": 2,
-                "name": "龙羊峡"
             }]
         }, {
             "code": "632600",
@@ -14446,9 +13521,9 @@ export default [{
             "level": 1,
             "name": "玉树藏族自治州",
             "areaList": [{
-                "code": "632721",
+                "code": "632701",
                 "level": 2,
-                "name": "玉树县"
+                "name": "玉树市"
             }, {
                 "code": "632722",
                 "level": 2,
@@ -14499,9 +13574,9 @@ export default [{
                 "level": 2,
                 "name": "天峻县"
             }, {
-                "code": "632841",
+                "code": "632857",
                 "level": 2,
-                "name": "大柴旦行委"
+                "name": "大柴旦行政委员会"
             }]
         }]
     }, {
@@ -14620,10 +13695,6 @@ export default [{
                 "code": "640522",
                 "level": 2,
                 "name": "海原县"
-            }, {
-                "code": "647000",
-                "level": 2,
-                "name": "宁东管委会"
             }]
         }]
     }, {
@@ -14666,10 +13737,6 @@ export default [{
                 "code": "650121",
                 "level": 2,
                 "name": "乌鲁木齐县"
-            }, {
-                "code": "650140",
-                "level": 2,
-                "name": "经济技术开发区"
             }]
         }, {
             "code": "650200",
@@ -14821,7 +13888,7 @@ export default [{
                 "level": 2,
                 "name": "博湖县"
             }, {
-                "code": "652840",
+                "code": "652871",
                 "level": 2,
                 "name": "库尔勒经济开发区"
             }]
@@ -14834,13 +13901,13 @@ export default [{
                 "level": 2,
                 "name": "阿克苏市"
             }, {
+                "code": "652902",
+                "level": 2,
+                "name": "库车市"
+            }, {
                 "code": "652922",
                 "level": 2,
                 "name": "温宿县"
-            }, {
-                "code": "652923",
-                "level": 2,
-                "name": "库车县"
             }, {
                 "code": "652924",
                 "level": 2,
@@ -15039,13 +14106,13 @@ export default [{
                 "level": 2,
                 "name": "乌苏市"
             }, {
+                "code": "654203",
+                "level": 2,
+                "name": "沙湾市"
+            }, {
                 "code": "654221",
                 "level": 2,
                 "name": "额敏县"
-            }, {
-                "code": "654223",
-                "level": 2,
-                "name": "沙湾县"
             }, {
                 "code": "654224",
                 "level": 2,
@@ -15112,6 +14179,34 @@ export default [{
                 "code": "659004",
                 "level": 2,
                 "name": "五家渠市"
+            }, {
+                "code": "659005",
+                "level": 2,
+                "name": "北屯市"
+            }, {
+                "code": "659006",
+                "level": 2,
+                "name": "铁门关市"
+            }, {
+                "code": "659007",
+                "level": 2,
+                "name": "双河市"
+            }, {
+                "code": "659008",
+                "level": 2,
+                "name": "可克达拉市"
+            }, {
+                "code": "659009",
+                "level": 2,
+                "name": "昆玉市"
+            }, {
+                "code": "659010",
+                "level": 2,
+                "name": "胡杨河市"
+            }, {
+                "code": "659011",
+                "level": 2,
+                "name": "新星市"
             }]
         }]
     }, {
